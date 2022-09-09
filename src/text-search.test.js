@@ -6,6 +6,7 @@ test('iterate and find text', () => {
         {message: "JIRA-15: revert changes"},
         {message: "fix: another changes"},
         {message: "Jira-11: more changes"},
+        {message: "Jira-20"},
     ];
     let matches = data
         .map(s => s.message.match(/([A-Z0-9]+)-[0-9]+/gi))
@@ -22,5 +23,6 @@ test('iterate and find text', () => {
         "JIRA-10",
         "JIRA-11",
         "JIRA-15",
+        "JIRA-20",
     ]);
 });

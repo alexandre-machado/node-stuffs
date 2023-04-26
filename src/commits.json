@@ -1,0 +1,3271 @@
+[
+    {
+        "sha": "597684cc3d9fc5aa765b48df7e74a87193b002a7",
+        "node_id": "C_kwDOAuNQMdoAKDU5NzY4NGNjM2Q5ZmM1YWE3NjViNDhkZjdlNzRhODcxOTNiMDAyYTc",
+        "commit": {
+            "author": {
+                "name": "Cristian Burile",
+                "email": "cristianburile@hotmail.com",
+                "date": "2023-04-12T18:36:43Z"
+            },
+            "committer": {
+                "name": "Cristian Burile",
+                "email": "cristianburile@hotmail.com",
+                "date": "2023-04-12T19:50:03Z"
+            },
+            "message": "feat: add is tranfer on portfolio\n\n.",
+            "tree": {
+                "sha": "b56564205c97215f3901599e2d01058b8acc9b82",
+                "url": "https://api.github.com/repos/warrenbrasil/core/git/trees/b56564205c97215f3901599e2d01058b8acc9b82"
+            },
+            "url": "https://api.github.com/repos/warrenbrasil/core/git/commits/597684cc3d9fc5aa765b48df7e74a87193b002a7",
+            "comment_count": 0,
+            "verification": {
+                "verified": false,
+                "reason": "unsigned",
+                "signature": null,
+                "payload": null
+            }
+        },
+        "url": "https://api.github.com/repos/warrenbrasil/core/commits/597684cc3d9fc5aa765b48df7e74a87193b002a7",
+        "html_url": "https://github.com/warrenbrasil/core/commit/597684cc3d9fc5aa765b48df7e74a87193b002a7",
+        "comments_url": "https://api.github.com/repos/warrenbrasil/core/commits/597684cc3d9fc5aa765b48df7e74a87193b002a7/comments",
+        "author": {
+            "login": "Burilec",
+            "id": 39936613,
+            "node_id": "MDQ6VXNlcjM5OTM2NjEz",
+            "avatar_url": "https://avatars.githubusercontent.com/u/39936613?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/Burilec",
+            "html_url": "https://github.com/Burilec",
+            "followers_url": "https://api.github.com/users/Burilec/followers",
+            "following_url": "https://api.github.com/users/Burilec/following{/other_user}",
+            "gists_url": "https://api.github.com/users/Burilec/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/Burilec/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/Burilec/subscriptions",
+            "organizations_url": "https://api.github.com/users/Burilec/orgs",
+            "repos_url": "https://api.github.com/users/Burilec/repos",
+            "events_url": "https://api.github.com/users/Burilec/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/Burilec/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "Burilec",
+            "id": 39936613,
+            "node_id": "MDQ6VXNlcjM5OTM2NjEz",
+            "avatar_url": "https://avatars.githubusercontent.com/u/39936613?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/Burilec",
+            "html_url": "https://github.com/Burilec",
+            "followers_url": "https://api.github.com/users/Burilec/followers",
+            "following_url": "https://api.github.com/users/Burilec/following{/other_user}",
+            "gists_url": "https://api.github.com/users/Burilec/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/Burilec/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/Burilec/subscriptions",
+            "organizations_url": "https://api.github.com/users/Burilec/orgs",
+            "repos_url": "https://api.github.com/users/Burilec/repos",
+            "events_url": "https://api.github.com/users/Burilec/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/Burilec/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "2da54d31be01f5fbe7c48849edfcd3819e7f2fc7",
+                "url": "https://api.github.com/repos/warrenbrasil/core/commits/2da54d31be01f5fbe7c48849edfcd3819e7f2fc7",
+                "html_url": "https://github.com/warrenbrasil/core/commit/2da54d31be01f5fbe7c48849edfcd3819e7f2fc7"
+            }
+        ]
+    },
+    {
+        "sha": "1087b7152ceac6bf9bab1914f19bde9308823756",
+        "node_id": "C_kwDOAuNQMdoAKDEwODdiNzE1MmNlYWM2YmY5YmFiMTkxNGYxOWJkZTkzMDg4MjM3NTY",
+        "commit": {
+            "author": {
+                "name": "Cristian Burile",
+                "email": "cristianburile@hotmail.com",
+                "date": "2023-04-12T18:37:20Z"
+            },
+            "committer": {
+                "name": "Cristian Burile",
+                "email": "cristianburile@hotmail.com",
+                "date": "2023-04-12T19:50:04Z"
+            },
+            "message": "feat: add is tranfer on portfolio",
+            "tree": {
+                "sha": "3a53714aa6d71bd50b4ec04cb806d0d19b103002",
+                "url": "https://api.github.com/repos/warrenbrasil/core/git/trees/3a53714aa6d71bd50b4ec04cb806d0d19b103002"
+            },
+            "url": "https://api.github.com/repos/warrenbrasil/core/git/commits/1087b7152ceac6bf9bab1914f19bde9308823756",
+            "comment_count": 0,
+            "verification": {
+                "verified": false,
+                "reason": "unsigned",
+                "signature": null,
+                "payload": null
+            }
+        },
+        "url": "https://api.github.com/repos/warrenbrasil/core/commits/1087b7152ceac6bf9bab1914f19bde9308823756",
+        "html_url": "https://github.com/warrenbrasil/core/commit/1087b7152ceac6bf9bab1914f19bde9308823756",
+        "comments_url": "https://api.github.com/repos/warrenbrasil/core/commits/1087b7152ceac6bf9bab1914f19bde9308823756/comments",
+        "author": {
+            "login": "Burilec",
+            "id": 39936613,
+            "node_id": "MDQ6VXNlcjM5OTM2NjEz",
+            "avatar_url": "https://avatars.githubusercontent.com/u/39936613?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/Burilec",
+            "html_url": "https://github.com/Burilec",
+            "followers_url": "https://api.github.com/users/Burilec/followers",
+            "following_url": "https://api.github.com/users/Burilec/following{/other_user}",
+            "gists_url": "https://api.github.com/users/Burilec/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/Burilec/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/Burilec/subscriptions",
+            "organizations_url": "https://api.github.com/users/Burilec/orgs",
+            "repos_url": "https://api.github.com/users/Burilec/repos",
+            "events_url": "https://api.github.com/users/Burilec/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/Burilec/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "Burilec",
+            "id": 39936613,
+            "node_id": "MDQ6VXNlcjM5OTM2NjEz",
+            "avatar_url": "https://avatars.githubusercontent.com/u/39936613?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/Burilec",
+            "html_url": "https://github.com/Burilec",
+            "followers_url": "https://api.github.com/users/Burilec/followers",
+            "following_url": "https://api.github.com/users/Burilec/following{/other_user}",
+            "gists_url": "https://api.github.com/users/Burilec/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/Burilec/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/Burilec/subscriptions",
+            "organizations_url": "https://api.github.com/users/Burilec/orgs",
+            "repos_url": "https://api.github.com/users/Burilec/repos",
+            "events_url": "https://api.github.com/users/Burilec/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/Burilec/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "597684cc3d9fc5aa765b48df7e74a87193b002a7",
+                "url": "https://api.github.com/repos/warrenbrasil/core/commits/597684cc3d9fc5aa765b48df7e74a87193b002a7",
+                "html_url": "https://github.com/warrenbrasil/core/commit/597684cc3d9fc5aa765b48df7e74a87193b002a7"
+            }
+        ]
+    },
+    {
+        "sha": "996951e930359439707d161001a67b25508adf34",
+        "node_id": "C_kwDOAuNQMdoAKDk5Njk1MWU5MzAzNTk0Mzk3MDdkMTYxMDAxYTY3YjI1NTA4YWRmMzQ",
+        "commit": {
+            "author": {
+                "name": "Cristian Burile",
+                "email": "cristianburile@hotmail.com",
+                "date": "2023-04-12T18:43:33Z"
+            },
+            "committer": {
+                "name": "Cristian Burile",
+                "email": "cristianburile@hotmail.com",
+                "date": "2023-04-12T19:50:04Z"
+            },
+            "message": "feat: CreatePortfolioAsync add IsTransfer",
+            "tree": {
+                "sha": "64828632d01aa336605b091fcc361921e2d40d78",
+                "url": "https://api.github.com/repos/warrenbrasil/core/git/trees/64828632d01aa336605b091fcc361921e2d40d78"
+            },
+            "url": "https://api.github.com/repos/warrenbrasil/core/git/commits/996951e930359439707d161001a67b25508adf34",
+            "comment_count": 0,
+            "verification": {
+                "verified": false,
+                "reason": "unsigned",
+                "signature": null,
+                "payload": null
+            }
+        },
+        "url": "https://api.github.com/repos/warrenbrasil/core/commits/996951e930359439707d161001a67b25508adf34",
+        "html_url": "https://github.com/warrenbrasil/core/commit/996951e930359439707d161001a67b25508adf34",
+        "comments_url": "https://api.github.com/repos/warrenbrasil/core/commits/996951e930359439707d161001a67b25508adf34/comments",
+        "author": {
+            "login": "Burilec",
+            "id": 39936613,
+            "node_id": "MDQ6VXNlcjM5OTM2NjEz",
+            "avatar_url": "https://avatars.githubusercontent.com/u/39936613?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/Burilec",
+            "html_url": "https://github.com/Burilec",
+            "followers_url": "https://api.github.com/users/Burilec/followers",
+            "following_url": "https://api.github.com/users/Burilec/following{/other_user}",
+            "gists_url": "https://api.github.com/users/Burilec/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/Burilec/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/Burilec/subscriptions",
+            "organizations_url": "https://api.github.com/users/Burilec/orgs",
+            "repos_url": "https://api.github.com/users/Burilec/repos",
+            "events_url": "https://api.github.com/users/Burilec/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/Burilec/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "Burilec",
+            "id": 39936613,
+            "node_id": "MDQ6VXNlcjM5OTM2NjEz",
+            "avatar_url": "https://avatars.githubusercontent.com/u/39936613?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/Burilec",
+            "html_url": "https://github.com/Burilec",
+            "followers_url": "https://api.github.com/users/Burilec/followers",
+            "following_url": "https://api.github.com/users/Burilec/following{/other_user}",
+            "gists_url": "https://api.github.com/users/Burilec/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/Burilec/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/Burilec/subscriptions",
+            "organizations_url": "https://api.github.com/users/Burilec/orgs",
+            "repos_url": "https://api.github.com/users/Burilec/repos",
+            "events_url": "https://api.github.com/users/Burilec/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/Burilec/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "1087b7152ceac6bf9bab1914f19bde9308823756",
+                "url": "https://api.github.com/repos/warrenbrasil/core/commits/1087b7152ceac6bf9bab1914f19bde9308823756",
+                "html_url": "https://github.com/warrenbrasil/core/commit/1087b7152ceac6bf9bab1914f19bde9308823756"
+            }
+        ]
+    },
+    {
+        "sha": "8e73f86ec39ed3863a5e5c031c5b8d2e23424ff7",
+        "node_id": "C_kwDOAuNQMdoAKDhlNzNmODZlYzM5ZWQzODYzYTVlNWMwMzFjNWI4ZDJlMjM0MjRmZjc",
+        "commit": {
+            "author": {
+                "name": "Cristian Burile",
+                "email": "cristianburile@hotmail.com",
+                "date": "2023-04-12T18:50:16Z"
+            },
+            "committer": {
+                "name": "Cristian Burile",
+                "email": "cristianburile@hotmail.com",
+                "date": "2023-04-12T19:50:04Z"
+            },
+            "message": "feat: When IsPrivateFixedIncome do not create new portfolio",
+            "tree": {
+                "sha": "ac28738a65449360b6bb61ea83c189405076c1f9",
+                "url": "https://api.github.com/repos/warrenbrasil/core/git/trees/ac28738a65449360b6bb61ea83c189405076c1f9"
+            },
+            "url": "https://api.github.com/repos/warrenbrasil/core/git/commits/8e73f86ec39ed3863a5e5c031c5b8d2e23424ff7",
+            "comment_count": 0,
+            "verification": {
+                "verified": false,
+                "reason": "unsigned",
+                "signature": null,
+                "payload": null
+            }
+        },
+        "url": "https://api.github.com/repos/warrenbrasil/core/commits/8e73f86ec39ed3863a5e5c031c5b8d2e23424ff7",
+        "html_url": "https://github.com/warrenbrasil/core/commit/8e73f86ec39ed3863a5e5c031c5b8d2e23424ff7",
+        "comments_url": "https://api.github.com/repos/warrenbrasil/core/commits/8e73f86ec39ed3863a5e5c031c5b8d2e23424ff7/comments",
+        "author": {
+            "login": "Burilec",
+            "id": 39936613,
+            "node_id": "MDQ6VXNlcjM5OTM2NjEz",
+            "avatar_url": "https://avatars.githubusercontent.com/u/39936613?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/Burilec",
+            "html_url": "https://github.com/Burilec",
+            "followers_url": "https://api.github.com/users/Burilec/followers",
+            "following_url": "https://api.github.com/users/Burilec/following{/other_user}",
+            "gists_url": "https://api.github.com/users/Burilec/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/Burilec/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/Burilec/subscriptions",
+            "organizations_url": "https://api.github.com/users/Burilec/orgs",
+            "repos_url": "https://api.github.com/users/Burilec/repos",
+            "events_url": "https://api.github.com/users/Burilec/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/Burilec/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "Burilec",
+            "id": 39936613,
+            "node_id": "MDQ6VXNlcjM5OTM2NjEz",
+            "avatar_url": "https://avatars.githubusercontent.com/u/39936613?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/Burilec",
+            "html_url": "https://github.com/Burilec",
+            "followers_url": "https://api.github.com/users/Burilec/followers",
+            "following_url": "https://api.github.com/users/Burilec/following{/other_user}",
+            "gists_url": "https://api.github.com/users/Burilec/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/Burilec/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/Burilec/subscriptions",
+            "organizations_url": "https://api.github.com/users/Burilec/orgs",
+            "repos_url": "https://api.github.com/users/Burilec/repos",
+            "events_url": "https://api.github.com/users/Burilec/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/Burilec/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "996951e930359439707d161001a67b25508adf34",
+                "url": "https://api.github.com/repos/warrenbrasil/core/commits/996951e930359439707d161001a67b25508adf34",
+                "html_url": "https://github.com/warrenbrasil/core/commit/996951e930359439707d161001a67b25508adf34"
+            }
+        ]
+    },
+    {
+        "sha": "ca41370711fb128618509e0586a1082e45ecd6b8",
+        "node_id": "C_kwDOAuNQMdoAKGNhNDEzNzA3MTFmYjEyODYxODUwOWUwNTg2YTEwODJlNDVlY2Q2Yjg",
+        "commit": {
+            "author": {
+                "name": "Cristian Burile",
+                "email": "cristianburile@hotmail.com",
+                "date": "2023-04-13T18:57:43Z"
+            },
+            "committer": {
+                "name": "Cristian Burile",
+                "email": "cristianburile@hotmail.com",
+                "date": "2023-04-13T18:57:43Z"
+            },
+            "message": "refactor: Remove migrations",
+            "tree": {
+                "sha": "21402740b5657c114a5f86603a2434e74dfe2e37",
+                "url": "https://api.github.com/repos/warrenbrasil/core/git/trees/21402740b5657c114a5f86603a2434e74dfe2e37"
+            },
+            "url": "https://api.github.com/repos/warrenbrasil/core/git/commits/ca41370711fb128618509e0586a1082e45ecd6b8",
+            "comment_count": 0,
+            "verification": {
+                "verified": false,
+                "reason": "unsigned",
+                "signature": null,
+                "payload": null
+            }
+        },
+        "url": "https://api.github.com/repos/warrenbrasil/core/commits/ca41370711fb128618509e0586a1082e45ecd6b8",
+        "html_url": "https://github.com/warrenbrasil/core/commit/ca41370711fb128618509e0586a1082e45ecd6b8",
+        "comments_url": "https://api.github.com/repos/warrenbrasil/core/commits/ca41370711fb128618509e0586a1082e45ecd6b8/comments",
+        "author": {
+            "login": "Burilec",
+            "id": 39936613,
+            "node_id": "MDQ6VXNlcjM5OTM2NjEz",
+            "avatar_url": "https://avatars.githubusercontent.com/u/39936613?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/Burilec",
+            "html_url": "https://github.com/Burilec",
+            "followers_url": "https://api.github.com/users/Burilec/followers",
+            "following_url": "https://api.github.com/users/Burilec/following{/other_user}",
+            "gists_url": "https://api.github.com/users/Burilec/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/Burilec/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/Burilec/subscriptions",
+            "organizations_url": "https://api.github.com/users/Burilec/orgs",
+            "repos_url": "https://api.github.com/users/Burilec/repos",
+            "events_url": "https://api.github.com/users/Burilec/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/Burilec/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "Burilec",
+            "id": 39936613,
+            "node_id": "MDQ6VXNlcjM5OTM2NjEz",
+            "avatar_url": "https://avatars.githubusercontent.com/u/39936613?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/Burilec",
+            "html_url": "https://github.com/Burilec",
+            "followers_url": "https://api.github.com/users/Burilec/followers",
+            "following_url": "https://api.github.com/users/Burilec/following{/other_user}",
+            "gists_url": "https://api.github.com/users/Burilec/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/Burilec/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/Burilec/subscriptions",
+            "organizations_url": "https://api.github.com/users/Burilec/orgs",
+            "repos_url": "https://api.github.com/users/Burilec/repos",
+            "events_url": "https://api.github.com/users/Burilec/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/Burilec/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "8e73f86ec39ed3863a5e5c031c5b8d2e23424ff7",
+                "url": "https://api.github.com/repos/warrenbrasil/core/commits/8e73f86ec39ed3863a5e5c031c5b8d2e23424ff7",
+                "html_url": "https://github.com/warrenbrasil/core/commit/8e73f86ec39ed3863a5e5c031c5b8d2e23424ff7"
+            }
+        ]
+    },
+    {
+        "sha": "4ba284b4cc90a37a4e4c5b54775c9d0f08f344a0",
+        "node_id": "C_kwDOAuNQMdoAKDRiYTI4NGI0Y2M5MGEzN2E0ZTRjNWI1NDc3NWM5ZDBmMDhmMzQ0YTA",
+        "commit": {
+            "author": {
+                "name": "Cristian Burile",
+                "email": "cristianburile@hotmail.com",
+                "date": "2023-04-13T18:59:42Z"
+            },
+            "committer": {
+                "name": "Cristian Burile",
+                "email": "cristianburile@hotmail.com",
+                "date": "2023-04-13T18:59:42Z"
+            },
+            "message": "Refactor: Rename Variable",
+            "tree": {
+                "sha": "7037f4f2e73cd45494a10c0d65491db2bc9fe450",
+                "url": "https://api.github.com/repos/warrenbrasil/core/git/trees/7037f4f2e73cd45494a10c0d65491db2bc9fe450"
+            },
+            "url": "https://api.github.com/repos/warrenbrasil/core/git/commits/4ba284b4cc90a37a4e4c5b54775c9d0f08f344a0",
+            "comment_count": 0,
+            "verification": {
+                "verified": false,
+                "reason": "unsigned",
+                "signature": null,
+                "payload": null
+            }
+        },
+        "url": "https://api.github.com/repos/warrenbrasil/core/commits/4ba284b4cc90a37a4e4c5b54775c9d0f08f344a0",
+        "html_url": "https://github.com/warrenbrasil/core/commit/4ba284b4cc90a37a4e4c5b54775c9d0f08f344a0",
+        "comments_url": "https://api.github.com/repos/warrenbrasil/core/commits/4ba284b4cc90a37a4e4c5b54775c9d0f08f344a0/comments",
+        "author": {
+            "login": "Burilec",
+            "id": 39936613,
+            "node_id": "MDQ6VXNlcjM5OTM2NjEz",
+            "avatar_url": "https://avatars.githubusercontent.com/u/39936613?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/Burilec",
+            "html_url": "https://github.com/Burilec",
+            "followers_url": "https://api.github.com/users/Burilec/followers",
+            "following_url": "https://api.github.com/users/Burilec/following{/other_user}",
+            "gists_url": "https://api.github.com/users/Burilec/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/Burilec/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/Burilec/subscriptions",
+            "organizations_url": "https://api.github.com/users/Burilec/orgs",
+            "repos_url": "https://api.github.com/users/Burilec/repos",
+            "events_url": "https://api.github.com/users/Burilec/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/Burilec/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "Burilec",
+            "id": 39936613,
+            "node_id": "MDQ6VXNlcjM5OTM2NjEz",
+            "avatar_url": "https://avatars.githubusercontent.com/u/39936613?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/Burilec",
+            "html_url": "https://github.com/Burilec",
+            "followers_url": "https://api.github.com/users/Burilec/followers",
+            "following_url": "https://api.github.com/users/Burilec/following{/other_user}",
+            "gists_url": "https://api.github.com/users/Burilec/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/Burilec/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/Burilec/subscriptions",
+            "organizations_url": "https://api.github.com/users/Burilec/orgs",
+            "repos_url": "https://api.github.com/users/Burilec/repos",
+            "events_url": "https://api.github.com/users/Burilec/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/Burilec/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "ca41370711fb128618509e0586a1082e45ecd6b8",
+                "url": "https://api.github.com/repos/warrenbrasil/core/commits/ca41370711fb128618509e0586a1082e45ecd6b8",
+                "html_url": "https://github.com/warrenbrasil/core/commit/ca41370711fb128618509e0586a1082e45ecd6b8"
+            }
+        ]
+    },
+    {
+        "sha": "fc80cd8bb02fd4a8f02f9c9ddb6e49d2218193da",
+        "node_id": "C_kwDOAuNQMdoAKGZjODBjZDhiYjAyZmQ0YThmMDJmOWM5ZGRiNmU0OWQyMjE4MTkzZGE",
+        "commit": {
+            "author": {
+                "name": "Cristian Burile",
+                "email": "cristianburile@hotmail.com",
+                "date": "2023-04-13T19:03:25Z"
+            },
+            "committer": {
+                "name": "Cristian Burile",
+                "email": "cristianburile@hotmail.com",
+                "date": "2023-04-13T19:03:25Z"
+            },
+            "message": "Merge branch 'staging' into feat/pdcn-2079/transfer-only-one-portfolio",
+            "tree": {
+                "sha": "63bc82549e13b4666c28cc0176af2d05d98f4744",
+                "url": "https://api.github.com/repos/warrenbrasil/core/git/trees/63bc82549e13b4666c28cc0176af2d05d98f4744"
+            },
+            "url": "https://api.github.com/repos/warrenbrasil/core/git/commits/fc80cd8bb02fd4a8f02f9c9ddb6e49d2218193da",
+            "comment_count": 0,
+            "verification": {
+                "verified": false,
+                "reason": "unsigned",
+                "signature": null,
+                "payload": null
+            }
+        },
+        "url": "https://api.github.com/repos/warrenbrasil/core/commits/fc80cd8bb02fd4a8f02f9c9ddb6e49d2218193da",
+        "html_url": "https://github.com/warrenbrasil/core/commit/fc80cd8bb02fd4a8f02f9c9ddb6e49d2218193da",
+        "comments_url": "https://api.github.com/repos/warrenbrasil/core/commits/fc80cd8bb02fd4a8f02f9c9ddb6e49d2218193da/comments",
+        "author": {
+            "login": "Burilec",
+            "id": 39936613,
+            "node_id": "MDQ6VXNlcjM5OTM2NjEz",
+            "avatar_url": "https://avatars.githubusercontent.com/u/39936613?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/Burilec",
+            "html_url": "https://github.com/Burilec",
+            "followers_url": "https://api.github.com/users/Burilec/followers",
+            "following_url": "https://api.github.com/users/Burilec/following{/other_user}",
+            "gists_url": "https://api.github.com/users/Burilec/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/Burilec/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/Burilec/subscriptions",
+            "organizations_url": "https://api.github.com/users/Burilec/orgs",
+            "repos_url": "https://api.github.com/users/Burilec/repos",
+            "events_url": "https://api.github.com/users/Burilec/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/Burilec/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "Burilec",
+            "id": 39936613,
+            "node_id": "MDQ6VXNlcjM5OTM2NjEz",
+            "avatar_url": "https://avatars.githubusercontent.com/u/39936613?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/Burilec",
+            "html_url": "https://github.com/Burilec",
+            "followers_url": "https://api.github.com/users/Burilec/followers",
+            "following_url": "https://api.github.com/users/Burilec/following{/other_user}",
+            "gists_url": "https://api.github.com/users/Burilec/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/Burilec/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/Burilec/subscriptions",
+            "organizations_url": "https://api.github.com/users/Burilec/orgs",
+            "repos_url": "https://api.github.com/users/Burilec/repos",
+            "events_url": "https://api.github.com/users/Burilec/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/Burilec/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "4ba284b4cc90a37a4e4c5b54775c9d0f08f344a0",
+                "url": "https://api.github.com/repos/warrenbrasil/core/commits/4ba284b4cc90a37a4e4c5b54775c9d0f08f344a0",
+                "html_url": "https://github.com/warrenbrasil/core/commit/4ba284b4cc90a37a4e4c5b54775c9d0f08f344a0"
+            },
+            {
+                "sha": "f57dd3f2c9db8f63920e0f35f0afb8ed8533b3a2",
+                "url": "https://api.github.com/repos/warrenbrasil/core/commits/f57dd3f2c9db8f63920e0f35f0afb8ed8533b3a2",
+                "html_url": "https://github.com/warrenbrasil/core/commit/f57dd3f2c9db8f63920e0f35f0afb8ed8533b3a2"
+            }
+        ]
+    },
+    {
+        "sha": "8cd5dd89eec1bbb71f614a2ac80bddc762c7b129",
+        "node_id": "C_kwDOAuNQMdoAKDhjZDVkZDg5ZWVjMWJiYjcxZjYxNGEyYWM4MGJkZGM3NjJjN2IxMjk",
+        "commit": {
+            "author": {
+                "name": "Cristian Burile",
+                "email": "cristianburile@hotmail.com",
+                "date": "2023-04-13T19:14:38Z"
+            },
+            "committer": {
+                "name": "Cristian Burile",
+                "email": "cristianburile@hotmail.com",
+                "date": "2023-04-13T19:14:38Z"
+            },
+            "message": ".",
+            "tree": {
+                "sha": "2988b86db537e42ccbcdee463f34e7b516537ead",
+                "url": "https://api.github.com/repos/warrenbrasil/core/git/trees/2988b86db537e42ccbcdee463f34e7b516537ead"
+            },
+            "url": "https://api.github.com/repos/warrenbrasil/core/git/commits/8cd5dd89eec1bbb71f614a2ac80bddc762c7b129",
+            "comment_count": 0,
+            "verification": {
+                "verified": false,
+                "reason": "unsigned",
+                "signature": null,
+                "payload": null
+            }
+        },
+        "url": "https://api.github.com/repos/warrenbrasil/core/commits/8cd5dd89eec1bbb71f614a2ac80bddc762c7b129",
+        "html_url": "https://github.com/warrenbrasil/core/commit/8cd5dd89eec1bbb71f614a2ac80bddc762c7b129",
+        "comments_url": "https://api.github.com/repos/warrenbrasil/core/commits/8cd5dd89eec1bbb71f614a2ac80bddc762c7b129/comments",
+        "author": {
+            "login": "Burilec",
+            "id": 39936613,
+            "node_id": "MDQ6VXNlcjM5OTM2NjEz",
+            "avatar_url": "https://avatars.githubusercontent.com/u/39936613?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/Burilec",
+            "html_url": "https://github.com/Burilec",
+            "followers_url": "https://api.github.com/users/Burilec/followers",
+            "following_url": "https://api.github.com/users/Burilec/following{/other_user}",
+            "gists_url": "https://api.github.com/users/Burilec/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/Burilec/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/Burilec/subscriptions",
+            "organizations_url": "https://api.github.com/users/Burilec/orgs",
+            "repos_url": "https://api.github.com/users/Burilec/repos",
+            "events_url": "https://api.github.com/users/Burilec/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/Burilec/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "Burilec",
+            "id": 39936613,
+            "node_id": "MDQ6VXNlcjM5OTM2NjEz",
+            "avatar_url": "https://avatars.githubusercontent.com/u/39936613?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/Burilec",
+            "html_url": "https://github.com/Burilec",
+            "followers_url": "https://api.github.com/users/Burilec/followers",
+            "following_url": "https://api.github.com/users/Burilec/following{/other_user}",
+            "gists_url": "https://api.github.com/users/Burilec/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/Burilec/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/Burilec/subscriptions",
+            "organizations_url": "https://api.github.com/users/Burilec/orgs",
+            "repos_url": "https://api.github.com/users/Burilec/repos",
+            "events_url": "https://api.github.com/users/Burilec/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/Burilec/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "fc80cd8bb02fd4a8f02f9c9ddb6e49d2218193da",
+                "url": "https://api.github.com/repos/warrenbrasil/core/commits/fc80cd8bb02fd4a8f02f9c9ddb6e49d2218193da",
+                "html_url": "https://github.com/warrenbrasil/core/commit/fc80cd8bb02fd4a8f02f9c9ddb6e49d2218193da"
+            }
+        ]
+    },
+    {
+        "sha": "849ccdabe15dbac2d2c788b90dd03aed8c99925d",
+        "node_id": "C_kwDOAuNQMdoAKDg0OWNjZGFiZTE1ZGJhYzJkMmM3ODhiOTBkZDAzYWVkOGM5OTkyNWQ",
+        "commit": {
+            "author": {
+                "name": "Cristian Burile",
+                "email": "cristianburile@hotmail.com",
+                "date": "2023-04-13T19:22:10Z"
+            },
+            "committer": {
+                "name": "Cristian Burile",
+                "email": "cristianburile@hotmail.com",
+                "date": "2023-04-13T19:22:10Z"
+            },
+            "message": "feat: migration",
+            "tree": {
+                "sha": "ad8174e045b610bfbd01d7eee2292d3b47b7f7d4",
+                "url": "https://api.github.com/repos/warrenbrasil/core/git/trees/ad8174e045b610bfbd01d7eee2292d3b47b7f7d4"
+            },
+            "url": "https://api.github.com/repos/warrenbrasil/core/git/commits/849ccdabe15dbac2d2c788b90dd03aed8c99925d",
+            "comment_count": 0,
+            "verification": {
+                "verified": false,
+                "reason": "unsigned",
+                "signature": null,
+                "payload": null
+            }
+        },
+        "url": "https://api.github.com/repos/warrenbrasil/core/commits/849ccdabe15dbac2d2c788b90dd03aed8c99925d",
+        "html_url": "https://github.com/warrenbrasil/core/commit/849ccdabe15dbac2d2c788b90dd03aed8c99925d",
+        "comments_url": "https://api.github.com/repos/warrenbrasil/core/commits/849ccdabe15dbac2d2c788b90dd03aed8c99925d/comments",
+        "author": {
+            "login": "Burilec",
+            "id": 39936613,
+            "node_id": "MDQ6VXNlcjM5OTM2NjEz",
+            "avatar_url": "https://avatars.githubusercontent.com/u/39936613?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/Burilec",
+            "html_url": "https://github.com/Burilec",
+            "followers_url": "https://api.github.com/users/Burilec/followers",
+            "following_url": "https://api.github.com/users/Burilec/following{/other_user}",
+            "gists_url": "https://api.github.com/users/Burilec/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/Burilec/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/Burilec/subscriptions",
+            "organizations_url": "https://api.github.com/users/Burilec/orgs",
+            "repos_url": "https://api.github.com/users/Burilec/repos",
+            "events_url": "https://api.github.com/users/Burilec/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/Burilec/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "Burilec",
+            "id": 39936613,
+            "node_id": "MDQ6VXNlcjM5OTM2NjEz",
+            "avatar_url": "https://avatars.githubusercontent.com/u/39936613?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/Burilec",
+            "html_url": "https://github.com/Burilec",
+            "followers_url": "https://api.github.com/users/Burilec/followers",
+            "following_url": "https://api.github.com/users/Burilec/following{/other_user}",
+            "gists_url": "https://api.github.com/users/Burilec/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/Burilec/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/Burilec/subscriptions",
+            "organizations_url": "https://api.github.com/users/Burilec/orgs",
+            "repos_url": "https://api.github.com/users/Burilec/repos",
+            "events_url": "https://api.github.com/users/Burilec/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/Burilec/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "8cd5dd89eec1bbb71f614a2ac80bddc762c7b129",
+                "url": "https://api.github.com/repos/warrenbrasil/core/commits/8cd5dd89eec1bbb71f614a2ac80bddc762c7b129",
+                "html_url": "https://github.com/warrenbrasil/core/commit/8cd5dd89eec1bbb71f614a2ac80bddc762c7b129"
+            }
+        ]
+    },
+    {
+        "sha": "3e6f0f654b023cb11d9ee3a753062bf5de27865d",
+        "node_id": "C_kwDOAuNQMdoAKDNlNmYwZjY1NGIwMjNjYjExZDllZTNhNzUzMDYyYmY1ZGUyNzg2NWQ",
+        "commit": {
+            "author": {
+                "name": "Cristian Burile",
+                "email": "cristianburile@hotmail.com",
+                "date": "2023-04-13T19:22:43Z"
+            },
+            "committer": {
+                "name": "Cristian Burile",
+                "email": "cristianburile@hotmail.com",
+                "date": "2023-04-13T19:22:43Z"
+            },
+            "message": "Refactor: Rename IsTransferAndExempt to TaxesExempt",
+            "tree": {
+                "sha": "827a52da9aa5ff58abc46971784d7534e11550eb",
+                "url": "https://api.github.com/repos/warrenbrasil/core/git/trees/827a52da9aa5ff58abc46971784d7534e11550eb"
+            },
+            "url": "https://api.github.com/repos/warrenbrasil/core/git/commits/3e6f0f654b023cb11d9ee3a753062bf5de27865d",
+            "comment_count": 0,
+            "verification": {
+                "verified": false,
+                "reason": "unsigned",
+                "signature": null,
+                "payload": null
+            }
+        },
+        "url": "https://api.github.com/repos/warrenbrasil/core/commits/3e6f0f654b023cb11d9ee3a753062bf5de27865d",
+        "html_url": "https://github.com/warrenbrasil/core/commit/3e6f0f654b023cb11d9ee3a753062bf5de27865d",
+        "comments_url": "https://api.github.com/repos/warrenbrasil/core/commits/3e6f0f654b023cb11d9ee3a753062bf5de27865d/comments",
+        "author": {
+            "login": "Burilec",
+            "id": 39936613,
+            "node_id": "MDQ6VXNlcjM5OTM2NjEz",
+            "avatar_url": "https://avatars.githubusercontent.com/u/39936613?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/Burilec",
+            "html_url": "https://github.com/Burilec",
+            "followers_url": "https://api.github.com/users/Burilec/followers",
+            "following_url": "https://api.github.com/users/Burilec/following{/other_user}",
+            "gists_url": "https://api.github.com/users/Burilec/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/Burilec/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/Burilec/subscriptions",
+            "organizations_url": "https://api.github.com/users/Burilec/orgs",
+            "repos_url": "https://api.github.com/users/Burilec/repos",
+            "events_url": "https://api.github.com/users/Burilec/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/Burilec/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "Burilec",
+            "id": 39936613,
+            "node_id": "MDQ6VXNlcjM5OTM2NjEz",
+            "avatar_url": "https://avatars.githubusercontent.com/u/39936613?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/Burilec",
+            "html_url": "https://github.com/Burilec",
+            "followers_url": "https://api.github.com/users/Burilec/followers",
+            "following_url": "https://api.github.com/users/Burilec/following{/other_user}",
+            "gists_url": "https://api.github.com/users/Burilec/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/Burilec/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/Burilec/subscriptions",
+            "organizations_url": "https://api.github.com/users/Burilec/orgs",
+            "repos_url": "https://api.github.com/users/Burilec/repos",
+            "events_url": "https://api.github.com/users/Burilec/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/Burilec/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "849ccdabe15dbac2d2c788b90dd03aed8c99925d",
+                "url": "https://api.github.com/repos/warrenbrasil/core/commits/849ccdabe15dbac2d2c788b90dd03aed8c99925d",
+                "html_url": "https://github.com/warrenbrasil/core/commit/849ccdabe15dbac2d2c788b90dd03aed8c99925d"
+            }
+        ]
+    },
+    {
+        "sha": "15809a296e74f3e8c3612af361c7fa0bda0dd6ca",
+        "node_id": "C_kwDOAuNQMdoAKDE1ODA5YTI5NmU3NGYzZThjMzYxMmFmMzYxYzdmYTBiZGEwZGQ2Y2E",
+        "commit": {
+            "author": {
+                "name": "Cristian Burile",
+                "email": "cristianburile@hotmail.com",
+                "date": "2023-04-13T20:08:52Z"
+            },
+            "committer": {
+                "name": "Cristian Burile",
+                "email": "cristianburile@hotmail.com",
+                "date": "2023-04-13T20:08:52Z"
+            },
+            "message": "Refactor: Rename",
+            "tree": {
+                "sha": "c0445fc2d4ce31ca062243c5afb8835573927a02",
+                "url": "https://api.github.com/repos/warrenbrasil/core/git/trees/c0445fc2d4ce31ca062243c5afb8835573927a02"
+            },
+            "url": "https://api.github.com/repos/warrenbrasil/core/git/commits/15809a296e74f3e8c3612af361c7fa0bda0dd6ca",
+            "comment_count": 0,
+            "verification": {
+                "verified": false,
+                "reason": "unsigned",
+                "signature": null,
+                "payload": null
+            }
+        },
+        "url": "https://api.github.com/repos/warrenbrasil/core/commits/15809a296e74f3e8c3612af361c7fa0bda0dd6ca",
+        "html_url": "https://github.com/warrenbrasil/core/commit/15809a296e74f3e8c3612af361c7fa0bda0dd6ca",
+        "comments_url": "https://api.github.com/repos/warrenbrasil/core/commits/15809a296e74f3e8c3612af361c7fa0bda0dd6ca/comments",
+        "author": {
+            "login": "Burilec",
+            "id": 39936613,
+            "node_id": "MDQ6VXNlcjM5OTM2NjEz",
+            "avatar_url": "https://avatars.githubusercontent.com/u/39936613?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/Burilec",
+            "html_url": "https://github.com/Burilec",
+            "followers_url": "https://api.github.com/users/Burilec/followers",
+            "following_url": "https://api.github.com/users/Burilec/following{/other_user}",
+            "gists_url": "https://api.github.com/users/Burilec/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/Burilec/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/Burilec/subscriptions",
+            "organizations_url": "https://api.github.com/users/Burilec/orgs",
+            "repos_url": "https://api.github.com/users/Burilec/repos",
+            "events_url": "https://api.github.com/users/Burilec/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/Burilec/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "Burilec",
+            "id": 39936613,
+            "node_id": "MDQ6VXNlcjM5OTM2NjEz",
+            "avatar_url": "https://avatars.githubusercontent.com/u/39936613?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/Burilec",
+            "html_url": "https://github.com/Burilec",
+            "followers_url": "https://api.github.com/users/Burilec/followers",
+            "following_url": "https://api.github.com/users/Burilec/following{/other_user}",
+            "gists_url": "https://api.github.com/users/Burilec/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/Burilec/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/Burilec/subscriptions",
+            "organizations_url": "https://api.github.com/users/Burilec/orgs",
+            "repos_url": "https://api.github.com/users/Burilec/repos",
+            "events_url": "https://api.github.com/users/Burilec/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/Burilec/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "3e6f0f654b023cb11d9ee3a753062bf5de27865d",
+                "url": "https://api.github.com/repos/warrenbrasil/core/commits/3e6f0f654b023cb11d9ee3a753062bf5de27865d",
+                "html_url": "https://github.com/warrenbrasil/core/commit/3e6f0f654b023cb11d9ee3a753062bf5de27865d"
+            }
+        ]
+    },
+    {
+        "sha": "e285ecb8a0fa6ab1f185f5e01a5e1bac4d30c3fb",
+        "node_id": "C_kwDOAuNQMdoAKGUyODVlY2I4YTBmYTZhYjFmMTg1ZjVlMDFhNWUxYmFjNGQzMGMzZmI",
+        "commit": {
+            "author": {
+                "name": "Cristian Burile",
+                "email": "cristianburile@hotmail.com",
+                "date": "2023-04-17T15:40:06Z"
+            },
+            "committer": {
+                "name": "Cristian Burile",
+                "email": "cristianburile@hotmail.com",
+                "date": "2023-04-17T15:40:06Z"
+            },
+            "message": "feat: Add new ManagedPortfolioOrigin",
+            "tree": {
+                "sha": "17474bd6f879cbfb93da796105d42dcca611c8d7",
+                "url": "https://api.github.com/repos/warrenbrasil/core/git/trees/17474bd6f879cbfb93da796105d42dcca611c8d7"
+            },
+            "url": "https://api.github.com/repos/warrenbrasil/core/git/commits/e285ecb8a0fa6ab1f185f5e01a5e1bac4d30c3fb",
+            "comment_count": 0,
+            "verification": {
+                "verified": false,
+                "reason": "unsigned",
+                "signature": null,
+                "payload": null
+            }
+        },
+        "url": "https://api.github.com/repos/warrenbrasil/core/commits/e285ecb8a0fa6ab1f185f5e01a5e1bac4d30c3fb",
+        "html_url": "https://github.com/warrenbrasil/core/commit/e285ecb8a0fa6ab1f185f5e01a5e1bac4d30c3fb",
+        "comments_url": "https://api.github.com/repos/warrenbrasil/core/commits/e285ecb8a0fa6ab1f185f5e01a5e1bac4d30c3fb/comments",
+        "author": {
+            "login": "Burilec",
+            "id": 39936613,
+            "node_id": "MDQ6VXNlcjM5OTM2NjEz",
+            "avatar_url": "https://avatars.githubusercontent.com/u/39936613?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/Burilec",
+            "html_url": "https://github.com/Burilec",
+            "followers_url": "https://api.github.com/users/Burilec/followers",
+            "following_url": "https://api.github.com/users/Burilec/following{/other_user}",
+            "gists_url": "https://api.github.com/users/Burilec/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/Burilec/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/Burilec/subscriptions",
+            "organizations_url": "https://api.github.com/users/Burilec/orgs",
+            "repos_url": "https://api.github.com/users/Burilec/repos",
+            "events_url": "https://api.github.com/users/Burilec/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/Burilec/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "Burilec",
+            "id": 39936613,
+            "node_id": "MDQ6VXNlcjM5OTM2NjEz",
+            "avatar_url": "https://avatars.githubusercontent.com/u/39936613?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/Burilec",
+            "html_url": "https://github.com/Burilec",
+            "followers_url": "https://api.github.com/users/Burilec/followers",
+            "following_url": "https://api.github.com/users/Burilec/following{/other_user}",
+            "gists_url": "https://api.github.com/users/Burilec/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/Burilec/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/Burilec/subscriptions",
+            "organizations_url": "https://api.github.com/users/Burilec/orgs",
+            "repos_url": "https://api.github.com/users/Burilec/repos",
+            "events_url": "https://api.github.com/users/Burilec/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/Burilec/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "15809a296e74f3e8c3612af361c7fa0bda0dd6ca",
+                "url": "https://api.github.com/repos/warrenbrasil/core/commits/15809a296e74f3e8c3612af361c7fa0bda0dd6ca",
+                "html_url": "https://github.com/warrenbrasil/core/commit/15809a296e74f3e8c3612af361c7fa0bda0dd6ca"
+            }
+        ]
+    },
+    {
+        "sha": "def815e6b709824e182192b93495f28fc60b7a0f",
+        "node_id": "C_kwDOAuNQMdoAKGRlZjgxNWU2YjcwOTgyNGUxODIxOTJiOTM0OTVmMjhmYzYwYjdhMGY",
+        "commit": {
+            "author": {
+                "name": "Cristian Burile",
+                "email": "cristianburile@hotmail.com",
+                "date": "2023-04-17T15:42:16Z"
+            },
+            "committer": {
+                "name": "Cristian Burile",
+                "email": "cristianburile@hotmail.com",
+                "date": "2023-04-17T15:42:16Z"
+            },
+            "message": "feat: Check if isPrivateFixedIncome and add new origin on portfolio",
+            "tree": {
+                "sha": "578618ca4bf4baee09b415118d4c852692be4d25",
+                "url": "https://api.github.com/repos/warrenbrasil/core/git/trees/578618ca4bf4baee09b415118d4c852692be4d25"
+            },
+            "url": "https://api.github.com/repos/warrenbrasil/core/git/commits/def815e6b709824e182192b93495f28fc60b7a0f",
+            "comment_count": 0,
+            "verification": {
+                "verified": false,
+                "reason": "unsigned",
+                "signature": null,
+                "payload": null
+            }
+        },
+        "url": "https://api.github.com/repos/warrenbrasil/core/commits/def815e6b709824e182192b93495f28fc60b7a0f",
+        "html_url": "https://github.com/warrenbrasil/core/commit/def815e6b709824e182192b93495f28fc60b7a0f",
+        "comments_url": "https://api.github.com/repos/warrenbrasil/core/commits/def815e6b709824e182192b93495f28fc60b7a0f/comments",
+        "author": {
+            "login": "Burilec",
+            "id": 39936613,
+            "node_id": "MDQ6VXNlcjM5OTM2NjEz",
+            "avatar_url": "https://avatars.githubusercontent.com/u/39936613?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/Burilec",
+            "html_url": "https://github.com/Burilec",
+            "followers_url": "https://api.github.com/users/Burilec/followers",
+            "following_url": "https://api.github.com/users/Burilec/following{/other_user}",
+            "gists_url": "https://api.github.com/users/Burilec/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/Burilec/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/Burilec/subscriptions",
+            "organizations_url": "https://api.github.com/users/Burilec/orgs",
+            "repos_url": "https://api.github.com/users/Burilec/repos",
+            "events_url": "https://api.github.com/users/Burilec/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/Burilec/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "Burilec",
+            "id": 39936613,
+            "node_id": "MDQ6VXNlcjM5OTM2NjEz",
+            "avatar_url": "https://avatars.githubusercontent.com/u/39936613?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/Burilec",
+            "html_url": "https://github.com/Burilec",
+            "followers_url": "https://api.github.com/users/Burilec/followers",
+            "following_url": "https://api.github.com/users/Burilec/following{/other_user}",
+            "gists_url": "https://api.github.com/users/Burilec/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/Burilec/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/Burilec/subscriptions",
+            "organizations_url": "https://api.github.com/users/Burilec/orgs",
+            "repos_url": "https://api.github.com/users/Burilec/repos",
+            "events_url": "https://api.github.com/users/Burilec/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/Burilec/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "e285ecb8a0fa6ab1f185f5e01a5e1bac4d30c3fb",
+                "url": "https://api.github.com/repos/warrenbrasil/core/commits/e285ecb8a0fa6ab1f185f5e01a5e1bac4d30c3fb",
+                "html_url": "https://github.com/warrenbrasil/core/commit/e285ecb8a0fa6ab1f185f5e01a5e1bac4d30c3fb"
+            }
+        ]
+    },
+    {
+        "sha": "e01a7b4ce7f4bb27c9ff8195c756fa264c10e9bb",
+        "node_id": "C_kwDOAuNQMdoAKGUwMWE3YjRjZTdmNGJiMjdjOWZmODE5NWM3NTZmYTI2NGMxMGU5YmI",
+        "commit": {
+            "author": {
+                "name": "Cristian Burile",
+                "email": "cristianburile@hotmail.com",
+                "date": "2023-04-17T16:07:30Z"
+            },
+            "committer": {
+                "name": "Cristian Burile",
+                "email": "cristianburile@hotmail.com",
+                "date": "2023-04-17T16:07:30Z"
+            },
+            "message": "feat: Check if Portfolio is not Removed",
+            "tree": {
+                "sha": "b005f008fcb7aed1bcde63898a63a610a47de188",
+                "url": "https://api.github.com/repos/warrenbrasil/core/git/trees/b005f008fcb7aed1bcde63898a63a610a47de188"
+            },
+            "url": "https://api.github.com/repos/warrenbrasil/core/git/commits/e01a7b4ce7f4bb27c9ff8195c756fa264c10e9bb",
+            "comment_count": 0,
+            "verification": {
+                "verified": false,
+                "reason": "unsigned",
+                "signature": null,
+                "payload": null
+            }
+        },
+        "url": "https://api.github.com/repos/warrenbrasil/core/commits/e01a7b4ce7f4bb27c9ff8195c756fa264c10e9bb",
+        "html_url": "https://github.com/warrenbrasil/core/commit/e01a7b4ce7f4bb27c9ff8195c756fa264c10e9bb",
+        "comments_url": "https://api.github.com/repos/warrenbrasil/core/commits/e01a7b4ce7f4bb27c9ff8195c756fa264c10e9bb/comments",
+        "author": {
+            "login": "Burilec",
+            "id": 39936613,
+            "node_id": "MDQ6VXNlcjM5OTM2NjEz",
+            "avatar_url": "https://avatars.githubusercontent.com/u/39936613?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/Burilec",
+            "html_url": "https://github.com/Burilec",
+            "followers_url": "https://api.github.com/users/Burilec/followers",
+            "following_url": "https://api.github.com/users/Burilec/following{/other_user}",
+            "gists_url": "https://api.github.com/users/Burilec/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/Burilec/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/Burilec/subscriptions",
+            "organizations_url": "https://api.github.com/users/Burilec/orgs",
+            "repos_url": "https://api.github.com/users/Burilec/repos",
+            "events_url": "https://api.github.com/users/Burilec/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/Burilec/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "Burilec",
+            "id": 39936613,
+            "node_id": "MDQ6VXNlcjM5OTM2NjEz",
+            "avatar_url": "https://avatars.githubusercontent.com/u/39936613?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/Burilec",
+            "html_url": "https://github.com/Burilec",
+            "followers_url": "https://api.github.com/users/Burilec/followers",
+            "following_url": "https://api.github.com/users/Burilec/following{/other_user}",
+            "gists_url": "https://api.github.com/users/Burilec/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/Burilec/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/Burilec/subscriptions",
+            "organizations_url": "https://api.github.com/users/Burilec/orgs",
+            "repos_url": "https://api.github.com/users/Burilec/repos",
+            "events_url": "https://api.github.com/users/Burilec/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/Burilec/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "def815e6b709824e182192b93495f28fc60b7a0f",
+                "url": "https://api.github.com/repos/warrenbrasil/core/commits/def815e6b709824e182192b93495f28fc60b7a0f",
+                "html_url": "https://github.com/warrenbrasil/core/commit/def815e6b709824e182192b93495f28fc60b7a0f"
+            }
+        ]
+    },
+    {
+        "sha": "f96555c88d6d73c61bdf066b7f6999095bb3232f",
+        "node_id": "C_kwDOAuNQMdoAKGY5NjU1NWM4OGQ2ZDczYzYxYmRmMDY2YjdmNjk5OTA5NWJiMzIzMmY",
+        "commit": {
+            "author": {
+                "name": "Cristian Burile",
+                "email": "cristianburile@hotmail.com",
+                "date": "2023-04-17T16:19:08Z"
+            },
+            "committer": {
+                "name": "Cristian Burile",
+                "email": "cristianburile@hotmail.com",
+                "date": "2023-04-17T16:19:08Z"
+            },
+            "message": "Remove is transfer",
+            "tree": {
+                "sha": "68ee78f1c1141677c9beebbac5ea9403294c2e0e",
+                "url": "https://api.github.com/repos/warrenbrasil/core/git/trees/68ee78f1c1141677c9beebbac5ea9403294c2e0e"
+            },
+            "url": "https://api.github.com/repos/warrenbrasil/core/git/commits/f96555c88d6d73c61bdf066b7f6999095bb3232f",
+            "comment_count": 0,
+            "verification": {
+                "verified": false,
+                "reason": "unsigned",
+                "signature": null,
+                "payload": null
+            }
+        },
+        "url": "https://api.github.com/repos/warrenbrasil/core/commits/f96555c88d6d73c61bdf066b7f6999095bb3232f",
+        "html_url": "https://github.com/warrenbrasil/core/commit/f96555c88d6d73c61bdf066b7f6999095bb3232f",
+        "comments_url": "https://api.github.com/repos/warrenbrasil/core/commits/f96555c88d6d73c61bdf066b7f6999095bb3232f/comments",
+        "author": {
+            "login": "Burilec",
+            "id": 39936613,
+            "node_id": "MDQ6VXNlcjM5OTM2NjEz",
+            "avatar_url": "https://avatars.githubusercontent.com/u/39936613?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/Burilec",
+            "html_url": "https://github.com/Burilec",
+            "followers_url": "https://api.github.com/users/Burilec/followers",
+            "following_url": "https://api.github.com/users/Burilec/following{/other_user}",
+            "gists_url": "https://api.github.com/users/Burilec/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/Burilec/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/Burilec/subscriptions",
+            "organizations_url": "https://api.github.com/users/Burilec/orgs",
+            "repos_url": "https://api.github.com/users/Burilec/repos",
+            "events_url": "https://api.github.com/users/Burilec/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/Burilec/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "Burilec",
+            "id": 39936613,
+            "node_id": "MDQ6VXNlcjM5OTM2NjEz",
+            "avatar_url": "https://avatars.githubusercontent.com/u/39936613?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/Burilec",
+            "html_url": "https://github.com/Burilec",
+            "followers_url": "https://api.github.com/users/Burilec/followers",
+            "following_url": "https://api.github.com/users/Burilec/following{/other_user}",
+            "gists_url": "https://api.github.com/users/Burilec/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/Burilec/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/Burilec/subscriptions",
+            "organizations_url": "https://api.github.com/users/Burilec/orgs",
+            "repos_url": "https://api.github.com/users/Burilec/repos",
+            "events_url": "https://api.github.com/users/Burilec/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/Burilec/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "e01a7b4ce7f4bb27c9ff8195c756fa264c10e9bb",
+                "url": "https://api.github.com/repos/warrenbrasil/core/commits/e01a7b4ce7f4bb27c9ff8195c756fa264c10e9bb",
+                "html_url": "https://github.com/warrenbrasil/core/commit/e01a7b4ce7f4bb27c9ff8195c756fa264c10e9bb"
+            }
+        ]
+    },
+    {
+        "sha": "ad262431ed9bbee21180019a5660fbe15fac82d7",
+        "node_id": "C_kwDOAuNQMdoAKGFkMjYyNDMxZWQ5YmJlZTIxMTgwMDE5YTU2NjBmYmUxNWZhYzgyZDc",
+        "commit": {
+            "author": {
+                "name": "Cristian Burile",
+                "email": "cristianburile@hotmail.com",
+                "date": "2023-04-17T16:30:05Z"
+            },
+            "committer": {
+                "name": "Cristian Burile",
+                "email": "cristianburile@hotmail.com",
+                "date": "2023-04-17T16:30:05Z"
+            },
+            "message": "fix: Migration",
+            "tree": {
+                "sha": "bc95b5df9be0a1e021bab2535955936271210d4e",
+                "url": "https://api.github.com/repos/warrenbrasil/core/git/trees/bc95b5df9be0a1e021bab2535955936271210d4e"
+            },
+            "url": "https://api.github.com/repos/warrenbrasil/core/git/commits/ad262431ed9bbee21180019a5660fbe15fac82d7",
+            "comment_count": 0,
+            "verification": {
+                "verified": false,
+                "reason": "unsigned",
+                "signature": null,
+                "payload": null
+            }
+        },
+        "url": "https://api.github.com/repos/warrenbrasil/core/commits/ad262431ed9bbee21180019a5660fbe15fac82d7",
+        "html_url": "https://github.com/warrenbrasil/core/commit/ad262431ed9bbee21180019a5660fbe15fac82d7",
+        "comments_url": "https://api.github.com/repos/warrenbrasil/core/commits/ad262431ed9bbee21180019a5660fbe15fac82d7/comments",
+        "author": {
+            "login": "Burilec",
+            "id": 39936613,
+            "node_id": "MDQ6VXNlcjM5OTM2NjEz",
+            "avatar_url": "https://avatars.githubusercontent.com/u/39936613?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/Burilec",
+            "html_url": "https://github.com/Burilec",
+            "followers_url": "https://api.github.com/users/Burilec/followers",
+            "following_url": "https://api.github.com/users/Burilec/following{/other_user}",
+            "gists_url": "https://api.github.com/users/Burilec/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/Burilec/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/Burilec/subscriptions",
+            "organizations_url": "https://api.github.com/users/Burilec/orgs",
+            "repos_url": "https://api.github.com/users/Burilec/repos",
+            "events_url": "https://api.github.com/users/Burilec/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/Burilec/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "Burilec",
+            "id": 39936613,
+            "node_id": "MDQ6VXNlcjM5OTM2NjEz",
+            "avatar_url": "https://avatars.githubusercontent.com/u/39936613?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/Burilec",
+            "html_url": "https://github.com/Burilec",
+            "followers_url": "https://api.github.com/users/Burilec/followers",
+            "following_url": "https://api.github.com/users/Burilec/following{/other_user}",
+            "gists_url": "https://api.github.com/users/Burilec/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/Burilec/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/Burilec/subscriptions",
+            "organizations_url": "https://api.github.com/users/Burilec/orgs",
+            "repos_url": "https://api.github.com/users/Burilec/repos",
+            "events_url": "https://api.github.com/users/Burilec/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/Burilec/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "f96555c88d6d73c61bdf066b7f6999095bb3232f",
+                "url": "https://api.github.com/repos/warrenbrasil/core/commits/f96555c88d6d73c61bdf066b7f6999095bb3232f",
+                "html_url": "https://github.com/warrenbrasil/core/commit/f96555c88d6d73c61bdf066b7f6999095bb3232f"
+            }
+        ]
+    },
+    {
+        "sha": "09fff2cf354fdba38074a0bacf28d4709f2968dd",
+        "node_id": "C_kwDOAuNQMdoAKDA5ZmZmMmNmMzU0ZmRiYTM4MDc0YTBiYWNmMjhkNDcwOWYyOTY4ZGQ",
+        "commit": {
+            "author": {
+                "name": "Cristian Burile",
+                "email": "cristianburile@hotmail.com",
+                "date": "2023-04-17T17:01:13Z"
+            },
+            "committer": {
+                "name": "Cristian Burile",
+                "email": "cristianburile@hotmail.com",
+                "date": "2023-04-17T17:01:13Z"
+            },
+            "message": "Refactor: Use Externsion",
+            "tree": {
+                "sha": "66e46a849496e0d9fbe7d53348a1fc2a2c74cf0e",
+                "url": "https://api.github.com/repos/warrenbrasil/core/git/trees/66e46a849496e0d9fbe7d53348a1fc2a2c74cf0e"
+            },
+            "url": "https://api.github.com/repos/warrenbrasil/core/git/commits/09fff2cf354fdba38074a0bacf28d4709f2968dd",
+            "comment_count": 0,
+            "verification": {
+                "verified": false,
+                "reason": "unsigned",
+                "signature": null,
+                "payload": null
+            }
+        },
+        "url": "https://api.github.com/repos/warrenbrasil/core/commits/09fff2cf354fdba38074a0bacf28d4709f2968dd",
+        "html_url": "https://github.com/warrenbrasil/core/commit/09fff2cf354fdba38074a0bacf28d4709f2968dd",
+        "comments_url": "https://api.github.com/repos/warrenbrasil/core/commits/09fff2cf354fdba38074a0bacf28d4709f2968dd/comments",
+        "author": {
+            "login": "Burilec",
+            "id": 39936613,
+            "node_id": "MDQ6VXNlcjM5OTM2NjEz",
+            "avatar_url": "https://avatars.githubusercontent.com/u/39936613?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/Burilec",
+            "html_url": "https://github.com/Burilec",
+            "followers_url": "https://api.github.com/users/Burilec/followers",
+            "following_url": "https://api.github.com/users/Burilec/following{/other_user}",
+            "gists_url": "https://api.github.com/users/Burilec/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/Burilec/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/Burilec/subscriptions",
+            "organizations_url": "https://api.github.com/users/Burilec/orgs",
+            "repos_url": "https://api.github.com/users/Burilec/repos",
+            "events_url": "https://api.github.com/users/Burilec/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/Burilec/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "Burilec",
+            "id": 39936613,
+            "node_id": "MDQ6VXNlcjM5OTM2NjEz",
+            "avatar_url": "https://avatars.githubusercontent.com/u/39936613?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/Burilec",
+            "html_url": "https://github.com/Burilec",
+            "followers_url": "https://api.github.com/users/Burilec/followers",
+            "following_url": "https://api.github.com/users/Burilec/following{/other_user}",
+            "gists_url": "https://api.github.com/users/Burilec/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/Burilec/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/Burilec/subscriptions",
+            "organizations_url": "https://api.github.com/users/Burilec/orgs",
+            "repos_url": "https://api.github.com/users/Burilec/repos",
+            "events_url": "https://api.github.com/users/Burilec/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/Burilec/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "ad262431ed9bbee21180019a5660fbe15fac82d7",
+                "url": "https://api.github.com/repos/warrenbrasil/core/commits/ad262431ed9bbee21180019a5660fbe15fac82d7",
+                "html_url": "https://github.com/warrenbrasil/core/commit/ad262431ed9bbee21180019a5660fbe15fac82d7"
+            }
+        ]
+    },
+    {
+        "sha": "0280e0662f050ebc2c1183dab25d4dcd1bbad037",
+        "node_id": "C_kwDOAuNQMdoAKDAyODBlMDY2MmYwNTBlYmMyYzExODNkYWIyNWQ0ZGNkMWJiYWQwMzc",
+        "commit": {
+            "author": {
+                "name": "Cristian Burile",
+                "email": "cristianburile@hotmail.com",
+                "date": "2023-04-17T17:01:41Z"
+            },
+            "committer": {
+                "name": "Cristian Burile",
+                "email": "cristianburile@hotmail.com",
+                "date": "2023-04-17T17:01:41Z"
+            },
+            "message": "Fix: Ajust ctor unit test",
+            "tree": {
+                "sha": "d648b1ce61faffb0e39eaf363cf4248c8c76819d",
+                "url": "https://api.github.com/repos/warrenbrasil/core/git/trees/d648b1ce61faffb0e39eaf363cf4248c8c76819d"
+            },
+            "url": "https://api.github.com/repos/warrenbrasil/core/git/commits/0280e0662f050ebc2c1183dab25d4dcd1bbad037",
+            "comment_count": 0,
+            "verification": {
+                "verified": false,
+                "reason": "unsigned",
+                "signature": null,
+                "payload": null
+            }
+        },
+        "url": "https://api.github.com/repos/warrenbrasil/core/commits/0280e0662f050ebc2c1183dab25d4dcd1bbad037",
+        "html_url": "https://github.com/warrenbrasil/core/commit/0280e0662f050ebc2c1183dab25d4dcd1bbad037",
+        "comments_url": "https://api.github.com/repos/warrenbrasil/core/commits/0280e0662f050ebc2c1183dab25d4dcd1bbad037/comments",
+        "author": {
+            "login": "Burilec",
+            "id": 39936613,
+            "node_id": "MDQ6VXNlcjM5OTM2NjEz",
+            "avatar_url": "https://avatars.githubusercontent.com/u/39936613?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/Burilec",
+            "html_url": "https://github.com/Burilec",
+            "followers_url": "https://api.github.com/users/Burilec/followers",
+            "following_url": "https://api.github.com/users/Burilec/following{/other_user}",
+            "gists_url": "https://api.github.com/users/Burilec/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/Burilec/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/Burilec/subscriptions",
+            "organizations_url": "https://api.github.com/users/Burilec/orgs",
+            "repos_url": "https://api.github.com/users/Burilec/repos",
+            "events_url": "https://api.github.com/users/Burilec/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/Burilec/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "Burilec",
+            "id": 39936613,
+            "node_id": "MDQ6VXNlcjM5OTM2NjEz",
+            "avatar_url": "https://avatars.githubusercontent.com/u/39936613?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/Burilec",
+            "html_url": "https://github.com/Burilec",
+            "followers_url": "https://api.github.com/users/Burilec/followers",
+            "following_url": "https://api.github.com/users/Burilec/following{/other_user}",
+            "gists_url": "https://api.github.com/users/Burilec/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/Burilec/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/Burilec/subscriptions",
+            "organizations_url": "https://api.github.com/users/Burilec/orgs",
+            "repos_url": "https://api.github.com/users/Burilec/repos",
+            "events_url": "https://api.github.com/users/Burilec/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/Burilec/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "09fff2cf354fdba38074a0bacf28d4709f2968dd",
+                "url": "https://api.github.com/repos/warrenbrasil/core/commits/09fff2cf354fdba38074a0bacf28d4709f2968dd",
+                "html_url": "https://github.com/warrenbrasil/core/commit/09fff2cf354fdba38074a0bacf28d4709f2968dd"
+            }
+        ]
+    },
+    {
+        "sha": "40b525b855a4c3b6718aba3a725a7ff3cd42e3bb",
+        "node_id": "C_kwDOAuNQMdoAKDQwYjUyNWI4NTVhNGMzYjY3MThhYmEzYTcyNWE3ZmYzY2Q0MmUzYmI",
+        "commit": {
+            "author": {
+                "name": "Cristian Burile",
+                "email": "cristianburile@hotmail.com",
+                "date": "2023-04-18T20:18:11Z"
+            },
+            "committer": {
+                "name": "Cristian Burile",
+                "email": "cristianburile@hotmail.com",
+                "date": "2023-04-18T20:18:11Z"
+            },
+            "message": "merge",
+            "tree": {
+                "sha": "24fcd0e2e1a6ce0ef2b040e5fce7e88a7fd62942",
+                "url": "https://api.github.com/repos/warrenbrasil/core/git/trees/24fcd0e2e1a6ce0ef2b040e5fce7e88a7fd62942"
+            },
+            "url": "https://api.github.com/repos/warrenbrasil/core/git/commits/40b525b855a4c3b6718aba3a725a7ff3cd42e3bb",
+            "comment_count": 0,
+            "verification": {
+                "verified": false,
+                "reason": "unsigned",
+                "signature": null,
+                "payload": null
+            }
+        },
+        "url": "https://api.github.com/repos/warrenbrasil/core/commits/40b525b855a4c3b6718aba3a725a7ff3cd42e3bb",
+        "html_url": "https://github.com/warrenbrasil/core/commit/40b525b855a4c3b6718aba3a725a7ff3cd42e3bb",
+        "comments_url": "https://api.github.com/repos/warrenbrasil/core/commits/40b525b855a4c3b6718aba3a725a7ff3cd42e3bb/comments",
+        "author": {
+            "login": "Burilec",
+            "id": 39936613,
+            "node_id": "MDQ6VXNlcjM5OTM2NjEz",
+            "avatar_url": "https://avatars.githubusercontent.com/u/39936613?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/Burilec",
+            "html_url": "https://github.com/Burilec",
+            "followers_url": "https://api.github.com/users/Burilec/followers",
+            "following_url": "https://api.github.com/users/Burilec/following{/other_user}",
+            "gists_url": "https://api.github.com/users/Burilec/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/Burilec/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/Burilec/subscriptions",
+            "organizations_url": "https://api.github.com/users/Burilec/orgs",
+            "repos_url": "https://api.github.com/users/Burilec/repos",
+            "events_url": "https://api.github.com/users/Burilec/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/Burilec/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "Burilec",
+            "id": 39936613,
+            "node_id": "MDQ6VXNlcjM5OTM2NjEz",
+            "avatar_url": "https://avatars.githubusercontent.com/u/39936613?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/Burilec",
+            "html_url": "https://github.com/Burilec",
+            "followers_url": "https://api.github.com/users/Burilec/followers",
+            "following_url": "https://api.github.com/users/Burilec/following{/other_user}",
+            "gists_url": "https://api.github.com/users/Burilec/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/Burilec/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/Burilec/subscriptions",
+            "organizations_url": "https://api.github.com/users/Burilec/orgs",
+            "repos_url": "https://api.github.com/users/Burilec/repos",
+            "events_url": "https://api.github.com/users/Burilec/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/Burilec/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "0280e0662f050ebc2c1183dab25d4dcd1bbad037",
+                "url": "https://api.github.com/repos/warrenbrasil/core/commits/0280e0662f050ebc2c1183dab25d4dcd1bbad037",
+                "html_url": "https://github.com/warrenbrasil/core/commit/0280e0662f050ebc2c1183dab25d4dcd1bbad037"
+            },
+            {
+                "sha": "4bb0f4913fcba403b3dd7d748f8dbf0b29d3e163",
+                "url": "https://api.github.com/repos/warrenbrasil/core/commits/4bb0f4913fcba403b3dd7d748f8dbf0b29d3e163",
+                "html_url": "https://github.com/warrenbrasil/core/commit/4bb0f4913fcba403b3dd7d748f8dbf0b29d3e163"
+            }
+        ]
+    },
+    {
+        "sha": "f98b6cb5daf14b9baa1d0759d011f3a7fc005cfe",
+        "node_id": "C_kwDOAuNQMdoAKGY5OGI2Y2I1ZGFmMTRiOWJhYTFkMDc1OWQwMTFmM2E3ZmMwMDVjZmU",
+        "commit": {
+            "author": {
+                "name": "Cristian Burile",
+                "email": "cristianburile@hotmail.com",
+                "date": "2023-04-18T21:08:03Z"
+            },
+            "committer": {
+                "name": "Cristian Burile",
+                "email": "cristianburile@hotmail.com",
+                "date": "2023-04-18T21:08:03Z"
+            },
+            "message": "Remove migrations",
+            "tree": {
+                "sha": "9ce6db391ee540dd4f5e3f03a47c9e3d8916e613",
+                "url": "https://api.github.com/repos/warrenbrasil/core/git/trees/9ce6db391ee540dd4f5e3f03a47c9e3d8916e613"
+            },
+            "url": "https://api.github.com/repos/warrenbrasil/core/git/commits/f98b6cb5daf14b9baa1d0759d011f3a7fc005cfe",
+            "comment_count": 0,
+            "verification": {
+                "verified": false,
+                "reason": "unsigned",
+                "signature": null,
+                "payload": null
+            }
+        },
+        "url": "https://api.github.com/repos/warrenbrasil/core/commits/f98b6cb5daf14b9baa1d0759d011f3a7fc005cfe",
+        "html_url": "https://github.com/warrenbrasil/core/commit/f98b6cb5daf14b9baa1d0759d011f3a7fc005cfe",
+        "comments_url": "https://api.github.com/repos/warrenbrasil/core/commits/f98b6cb5daf14b9baa1d0759d011f3a7fc005cfe/comments",
+        "author": {
+            "login": "Burilec",
+            "id": 39936613,
+            "node_id": "MDQ6VXNlcjM5OTM2NjEz",
+            "avatar_url": "https://avatars.githubusercontent.com/u/39936613?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/Burilec",
+            "html_url": "https://github.com/Burilec",
+            "followers_url": "https://api.github.com/users/Burilec/followers",
+            "following_url": "https://api.github.com/users/Burilec/following{/other_user}",
+            "gists_url": "https://api.github.com/users/Burilec/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/Burilec/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/Burilec/subscriptions",
+            "organizations_url": "https://api.github.com/users/Burilec/orgs",
+            "repos_url": "https://api.github.com/users/Burilec/repos",
+            "events_url": "https://api.github.com/users/Burilec/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/Burilec/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "Burilec",
+            "id": 39936613,
+            "node_id": "MDQ6VXNlcjM5OTM2NjEz",
+            "avatar_url": "https://avatars.githubusercontent.com/u/39936613?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/Burilec",
+            "html_url": "https://github.com/Burilec",
+            "followers_url": "https://api.github.com/users/Burilec/followers",
+            "following_url": "https://api.github.com/users/Burilec/following{/other_user}",
+            "gists_url": "https://api.github.com/users/Burilec/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/Burilec/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/Burilec/subscriptions",
+            "organizations_url": "https://api.github.com/users/Burilec/orgs",
+            "repos_url": "https://api.github.com/users/Burilec/repos",
+            "events_url": "https://api.github.com/users/Burilec/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/Burilec/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "40b525b855a4c3b6718aba3a725a7ff3cd42e3bb",
+                "url": "https://api.github.com/repos/warrenbrasil/core/commits/40b525b855a4c3b6718aba3a725a7ff3cd42e3bb",
+                "html_url": "https://github.com/warrenbrasil/core/commit/40b525b855a4c3b6718aba3a725a7ff3cd42e3bb"
+            }
+        ]
+    },
+    {
+        "sha": "676d13abf9b74a7f0b282a6fcd009674e2d35c78",
+        "node_id": "C_kwDOAuNQMdoAKDY3NmQxM2FiZjliNzRhN2YwYjI4MmE2ZmNkMDA5Njc0ZTJkMzVjNzg",
+        "commit": {
+            "author": {
+                "name": "Cristian Burile",
+                "email": "cristianburile@hotmail.com",
+                "date": "2023-04-18T21:08:37Z"
+            },
+            "committer": {
+                "name": "Cristian Burile",
+                "email": "cristianburile@hotmail.com",
+                "date": "2023-04-18T21:08:37Z"
+            },
+            "message": "feat: Rename IsTaxesExempt",
+            "tree": {
+                "sha": "b4ef0a8297ebb8791f2203fb18981b25b382f9ba",
+                "url": "https://api.github.com/repos/warrenbrasil/core/git/trees/b4ef0a8297ebb8791f2203fb18981b25b382f9ba"
+            },
+            "url": "https://api.github.com/repos/warrenbrasil/core/git/commits/676d13abf9b74a7f0b282a6fcd009674e2d35c78",
+            "comment_count": 0,
+            "verification": {
+                "verified": false,
+                "reason": "unsigned",
+                "signature": null,
+                "payload": null
+            }
+        },
+        "url": "https://api.github.com/repos/warrenbrasil/core/commits/676d13abf9b74a7f0b282a6fcd009674e2d35c78",
+        "html_url": "https://github.com/warrenbrasil/core/commit/676d13abf9b74a7f0b282a6fcd009674e2d35c78",
+        "comments_url": "https://api.github.com/repos/warrenbrasil/core/commits/676d13abf9b74a7f0b282a6fcd009674e2d35c78/comments",
+        "author": {
+            "login": "Burilec",
+            "id": 39936613,
+            "node_id": "MDQ6VXNlcjM5OTM2NjEz",
+            "avatar_url": "https://avatars.githubusercontent.com/u/39936613?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/Burilec",
+            "html_url": "https://github.com/Burilec",
+            "followers_url": "https://api.github.com/users/Burilec/followers",
+            "following_url": "https://api.github.com/users/Burilec/following{/other_user}",
+            "gists_url": "https://api.github.com/users/Burilec/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/Burilec/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/Burilec/subscriptions",
+            "organizations_url": "https://api.github.com/users/Burilec/orgs",
+            "repos_url": "https://api.github.com/users/Burilec/repos",
+            "events_url": "https://api.github.com/users/Burilec/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/Burilec/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "Burilec",
+            "id": 39936613,
+            "node_id": "MDQ6VXNlcjM5OTM2NjEz",
+            "avatar_url": "https://avatars.githubusercontent.com/u/39936613?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/Burilec",
+            "html_url": "https://github.com/Burilec",
+            "followers_url": "https://api.github.com/users/Burilec/followers",
+            "following_url": "https://api.github.com/users/Burilec/following{/other_user}",
+            "gists_url": "https://api.github.com/users/Burilec/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/Burilec/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/Burilec/subscriptions",
+            "organizations_url": "https://api.github.com/users/Burilec/orgs",
+            "repos_url": "https://api.github.com/users/Burilec/repos",
+            "events_url": "https://api.github.com/users/Burilec/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/Burilec/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "f98b6cb5daf14b9baa1d0759d011f3a7fc005cfe",
+                "url": "https://api.github.com/repos/warrenbrasil/core/commits/f98b6cb5daf14b9baa1d0759d011f3a7fc005cfe",
+                "html_url": "https://github.com/warrenbrasil/core/commit/f98b6cb5daf14b9baa1d0759d011f3a7fc005cfe"
+            }
+        ]
+    },
+    {
+        "sha": "5cdae1cdc26584bd641ffb1a49eb8b949411d46f",
+        "node_id": "C_kwDOAuNQMdoAKDVjZGFlMWNkYzI2NTg0YmQ2NDFmZmIxYTQ5ZWI4Yjk0OTQxMWQ0NmY",
+        "commit": {
+            "author": {
+                "name": "Cristian Burile",
+                "email": "cristianburile@hotmail.com",
+                "date": "2023-04-18T21:26:46Z"
+            },
+            "committer": {
+                "name": "Cristian Burile",
+                "email": "cristianburile@hotmail.com",
+                "date": "2023-04-18T21:26:46Z"
+            },
+            "message": "IsTransferAndExempt",
+            "tree": {
+                "sha": "6b44305aecba3c0788b82f2ebab80d8f79172e3e",
+                "url": "https://api.github.com/repos/warrenbrasil/core/git/trees/6b44305aecba3c0788b82f2ebab80d8f79172e3e"
+            },
+            "url": "https://api.github.com/repos/warrenbrasil/core/git/commits/5cdae1cdc26584bd641ffb1a49eb8b949411d46f",
+            "comment_count": 0,
+            "verification": {
+                "verified": false,
+                "reason": "unsigned",
+                "signature": null,
+                "payload": null
+            }
+        },
+        "url": "https://api.github.com/repos/warrenbrasil/core/commits/5cdae1cdc26584bd641ffb1a49eb8b949411d46f",
+        "html_url": "https://github.com/warrenbrasil/core/commit/5cdae1cdc26584bd641ffb1a49eb8b949411d46f",
+        "comments_url": "https://api.github.com/repos/warrenbrasil/core/commits/5cdae1cdc26584bd641ffb1a49eb8b949411d46f/comments",
+        "author": {
+            "login": "Burilec",
+            "id": 39936613,
+            "node_id": "MDQ6VXNlcjM5OTM2NjEz",
+            "avatar_url": "https://avatars.githubusercontent.com/u/39936613?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/Burilec",
+            "html_url": "https://github.com/Burilec",
+            "followers_url": "https://api.github.com/users/Burilec/followers",
+            "following_url": "https://api.github.com/users/Burilec/following{/other_user}",
+            "gists_url": "https://api.github.com/users/Burilec/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/Burilec/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/Burilec/subscriptions",
+            "organizations_url": "https://api.github.com/users/Burilec/orgs",
+            "repos_url": "https://api.github.com/users/Burilec/repos",
+            "events_url": "https://api.github.com/users/Burilec/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/Burilec/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "Burilec",
+            "id": 39936613,
+            "node_id": "MDQ6VXNlcjM5OTM2NjEz",
+            "avatar_url": "https://avatars.githubusercontent.com/u/39936613?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/Burilec",
+            "html_url": "https://github.com/Burilec",
+            "followers_url": "https://api.github.com/users/Burilec/followers",
+            "following_url": "https://api.github.com/users/Burilec/following{/other_user}",
+            "gists_url": "https://api.github.com/users/Burilec/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/Burilec/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/Burilec/subscriptions",
+            "organizations_url": "https://api.github.com/users/Burilec/orgs",
+            "repos_url": "https://api.github.com/users/Burilec/repos",
+            "events_url": "https://api.github.com/users/Burilec/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/Burilec/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "676d13abf9b74a7f0b282a6fcd009674e2d35c78",
+                "url": "https://api.github.com/repos/warrenbrasil/core/commits/676d13abf9b74a7f0b282a6fcd009674e2d35c78",
+                "html_url": "https://github.com/warrenbrasil/core/commit/676d13abf9b74a7f0b282a6fcd009674e2d35c78"
+            }
+        ]
+    },
+    {
+        "sha": "203a24826fd213abd493b9e5d488b7e5e8ce8693",
+        "node_id": "C_kwDOAuNQMdoAKDIwM2EyNDgyNmZkMjEzYWJkNDkzYjllNWQ0ODhiN2U1ZThjZTg2OTM",
+        "commit": {
+            "author": {
+                "name": "mauriciogomes02",
+                "email": "mauricio.gomes@warren.com.br",
+                "date": "2023-04-19T17:27:16Z"
+            },
+            "committer": {
+                "name": "mauriciogomes02",
+                "email": "mauricio.gomes@warren.com.br",
+                "date": "2023-04-19T17:27:16Z"
+            },
+            "message": "feat(transaction-reconciliation): add transaction reconciliation entity\n\nJIRA TRD-8317",
+            "tree": {
+                "sha": "8f94db5d8860ae70f86ebf46862fabb6fb0c3c10",
+                "url": "https://api.github.com/repos/warrenbrasil/core/git/trees/8f94db5d8860ae70f86ebf46862fabb6fb0c3c10"
+            },
+            "url": "https://api.github.com/repos/warrenbrasil/core/git/commits/203a24826fd213abd493b9e5d488b7e5e8ce8693",
+            "comment_count": 0,
+            "verification": {
+                "verified": false,
+                "reason": "unsigned",
+                "signature": null,
+                "payload": null
+            }
+        },
+        "url": "https://api.github.com/repos/warrenbrasil/core/commits/203a24826fd213abd493b9e5d488b7e5e8ce8693",
+        "html_url": "https://github.com/warrenbrasil/core/commit/203a24826fd213abd493b9e5d488b7e5e8ce8693",
+        "comments_url": "https://api.github.com/repos/warrenbrasil/core/commits/203a24826fd213abd493b9e5d488b7e5e8ce8693/comments",
+        "author": {
+            "login": "MauricioGomes02",
+            "id": 65768679,
+            "node_id": "MDQ6VXNlcjY1NzY4Njc5",
+            "avatar_url": "https://avatars.githubusercontent.com/u/65768679?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/MauricioGomes02",
+            "html_url": "https://github.com/MauricioGomes02",
+            "followers_url": "https://api.github.com/users/MauricioGomes02/followers",
+            "following_url": "https://api.github.com/users/MauricioGomes02/following{/other_user}",
+            "gists_url": "https://api.github.com/users/MauricioGomes02/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/MauricioGomes02/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/MauricioGomes02/subscriptions",
+            "organizations_url": "https://api.github.com/users/MauricioGomes02/orgs",
+            "repos_url": "https://api.github.com/users/MauricioGomes02/repos",
+            "events_url": "https://api.github.com/users/MauricioGomes02/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/MauricioGomes02/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "MauricioGomes02",
+            "id": 65768679,
+            "node_id": "MDQ6VXNlcjY1NzY4Njc5",
+            "avatar_url": "https://avatars.githubusercontent.com/u/65768679?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/MauricioGomes02",
+            "html_url": "https://github.com/MauricioGomes02",
+            "followers_url": "https://api.github.com/users/MauricioGomes02/followers",
+            "following_url": "https://api.github.com/users/MauricioGomes02/following{/other_user}",
+            "gists_url": "https://api.github.com/users/MauricioGomes02/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/MauricioGomes02/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/MauricioGomes02/subscriptions",
+            "organizations_url": "https://api.github.com/users/MauricioGomes02/orgs",
+            "repos_url": "https://api.github.com/users/MauricioGomes02/repos",
+            "events_url": "https://api.github.com/users/MauricioGomes02/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/MauricioGomes02/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "9d8e43de39152d416d0f3135c7275ff170ab4676",
+                "url": "https://api.github.com/repos/warrenbrasil/core/commits/9d8e43de39152d416d0f3135c7275ff170ab4676",
+                "html_url": "https://github.com/warrenbrasil/core/commit/9d8e43de39152d416d0f3135c7275ff170ab4676"
+            }
+        ]
+    },
+    {
+        "sha": "163ab403d837707643095216c316e4f5ee8d9e0e",
+        "node_id": "C_kwDOAuNQMdoAKDE2M2FiNDAzZDgzNzcwNzY0MzA5NTIxNmMzMTZlNGY1ZWU4ZDllMGU",
+        "commit": {
+            "author": {
+                "name": "Cristian Burile",
+                "email": "cristianburile@hotmail.com",
+                "date": "2023-04-19T22:31:38Z"
+            },
+            "committer": {
+                "name": "Cristian Burile",
+                "email": "cristianburile@hotmail.com",
+                "date": "2023-04-19T22:31:38Z"
+            },
+            "message": "Remove: TaxesExempt",
+            "tree": {
+                "sha": "2e0e62df366d5f9b9e4e4aea696f2471322e5f71",
+                "url": "https://api.github.com/repos/warrenbrasil/core/git/trees/2e0e62df366d5f9b9e4e4aea696f2471322e5f71"
+            },
+            "url": "https://api.github.com/repos/warrenbrasil/core/git/commits/163ab403d837707643095216c316e4f5ee8d9e0e",
+            "comment_count": 0,
+            "verification": {
+                "verified": false,
+                "reason": "unsigned",
+                "signature": null,
+                "payload": null
+            }
+        },
+        "url": "https://api.github.com/repos/warrenbrasil/core/commits/163ab403d837707643095216c316e4f5ee8d9e0e",
+        "html_url": "https://github.com/warrenbrasil/core/commit/163ab403d837707643095216c316e4f5ee8d9e0e",
+        "comments_url": "https://api.github.com/repos/warrenbrasil/core/commits/163ab403d837707643095216c316e4f5ee8d9e0e/comments",
+        "author": {
+            "login": "Burilec",
+            "id": 39936613,
+            "node_id": "MDQ6VXNlcjM5OTM2NjEz",
+            "avatar_url": "https://avatars.githubusercontent.com/u/39936613?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/Burilec",
+            "html_url": "https://github.com/Burilec",
+            "followers_url": "https://api.github.com/users/Burilec/followers",
+            "following_url": "https://api.github.com/users/Burilec/following{/other_user}",
+            "gists_url": "https://api.github.com/users/Burilec/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/Burilec/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/Burilec/subscriptions",
+            "organizations_url": "https://api.github.com/users/Burilec/orgs",
+            "repos_url": "https://api.github.com/users/Burilec/repos",
+            "events_url": "https://api.github.com/users/Burilec/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/Burilec/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "Burilec",
+            "id": 39936613,
+            "node_id": "MDQ6VXNlcjM5OTM2NjEz",
+            "avatar_url": "https://avatars.githubusercontent.com/u/39936613?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/Burilec",
+            "html_url": "https://github.com/Burilec",
+            "followers_url": "https://api.github.com/users/Burilec/followers",
+            "following_url": "https://api.github.com/users/Burilec/following{/other_user}",
+            "gists_url": "https://api.github.com/users/Burilec/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/Burilec/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/Burilec/subscriptions",
+            "organizations_url": "https://api.github.com/users/Burilec/orgs",
+            "repos_url": "https://api.github.com/users/Burilec/repos",
+            "events_url": "https://api.github.com/users/Burilec/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/Burilec/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "5cdae1cdc26584bd641ffb1a49eb8b949411d46f",
+                "url": "https://api.github.com/repos/warrenbrasil/core/commits/5cdae1cdc26584bd641ffb1a49eb8b949411d46f",
+                "html_url": "https://github.com/warrenbrasil/core/commit/5cdae1cdc26584bd641ffb1a49eb8b949411d46f"
+            }
+        ]
+    },
+    {
+        "sha": "9532d4c1b328b55f4791fff5d5096b718b63d47c",
+        "node_id": "C_kwDOAuNQMdoAKDk1MzJkNGMxYjMyOGI1NWY0NzkxZmZmNWQ1MDk2YjcxOGI2M2Q0N2M",
+        "commit": {
+            "author": {
+                "name": "Cristian Burile",
+                "email": "cristianburile@hotmail.com",
+                "date": "2023-04-19T22:44:49Z"
+            },
+            "committer": {
+                "name": "Cristian Burile",
+                "email": "cristianburile@hotmail.com",
+                "date": "2023-04-19T22:44:49Z"
+            },
+            "message": "feat Change IsTransferAndExempt to IsTaxesExempt",
+            "tree": {
+                "sha": "4136c89bd10076b1c1648305775b15d25b53b9ae",
+                "url": "https://api.github.com/repos/warrenbrasil/core/git/trees/4136c89bd10076b1c1648305775b15d25b53b9ae"
+            },
+            "url": "https://api.github.com/repos/warrenbrasil/core/git/commits/9532d4c1b328b55f4791fff5d5096b718b63d47c",
+            "comment_count": 0,
+            "verification": {
+                "verified": false,
+                "reason": "unsigned",
+                "signature": null,
+                "payload": null
+            }
+        },
+        "url": "https://api.github.com/repos/warrenbrasil/core/commits/9532d4c1b328b55f4791fff5d5096b718b63d47c",
+        "html_url": "https://github.com/warrenbrasil/core/commit/9532d4c1b328b55f4791fff5d5096b718b63d47c",
+        "comments_url": "https://api.github.com/repos/warrenbrasil/core/commits/9532d4c1b328b55f4791fff5d5096b718b63d47c/comments",
+        "author": {
+            "login": "Burilec",
+            "id": 39936613,
+            "node_id": "MDQ6VXNlcjM5OTM2NjEz",
+            "avatar_url": "https://avatars.githubusercontent.com/u/39936613?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/Burilec",
+            "html_url": "https://github.com/Burilec",
+            "followers_url": "https://api.github.com/users/Burilec/followers",
+            "following_url": "https://api.github.com/users/Burilec/following{/other_user}",
+            "gists_url": "https://api.github.com/users/Burilec/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/Burilec/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/Burilec/subscriptions",
+            "organizations_url": "https://api.github.com/users/Burilec/orgs",
+            "repos_url": "https://api.github.com/users/Burilec/repos",
+            "events_url": "https://api.github.com/users/Burilec/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/Burilec/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "Burilec",
+            "id": 39936613,
+            "node_id": "MDQ6VXNlcjM5OTM2NjEz",
+            "avatar_url": "https://avatars.githubusercontent.com/u/39936613?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/Burilec",
+            "html_url": "https://github.com/Burilec",
+            "followers_url": "https://api.github.com/users/Burilec/followers",
+            "following_url": "https://api.github.com/users/Burilec/following{/other_user}",
+            "gists_url": "https://api.github.com/users/Burilec/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/Burilec/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/Burilec/subscriptions",
+            "organizations_url": "https://api.github.com/users/Burilec/orgs",
+            "repos_url": "https://api.github.com/users/Burilec/repos",
+            "events_url": "https://api.github.com/users/Burilec/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/Burilec/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "163ab403d837707643095216c316e4f5ee8d9e0e",
+                "url": "https://api.github.com/repos/warrenbrasil/core/commits/163ab403d837707643095216c316e4f5ee8d9e0e",
+                "html_url": "https://github.com/warrenbrasil/core/commit/163ab403d837707643095216c316e4f5ee8d9e0e"
+            }
+        ]
+    },
+    {
+        "sha": "b9243b27a7b96f47a2910e481d7f1c19f1b913f0",
+        "node_id": "C_kwDOAuNQMdoAKGI5MjQzYjI3YTdiOTZmNDdhMjkxMGU0ODFkN2YxYzE5ZjFiOTEzZjA",
+        "commit": {
+            "author": {
+                "name": "Cristian Burile",
+                "email": "cristianburile@hotmail.com",
+                "date": "2023-04-20T15:24:20Z"
+            },
+            "committer": {
+                "name": "Cristian Burile",
+                "email": "cristianburile@hotmail.com",
+                "date": "2023-04-20T15:24:20Z"
+            },
+            "message": "test",
+            "tree": {
+                "sha": "5a60cd9562bca91693e5fde5b7bae749e85691ba",
+                "url": "https://api.github.com/repos/warrenbrasil/core/git/trees/5a60cd9562bca91693e5fde5b7bae749e85691ba"
+            },
+            "url": "https://api.github.com/repos/warrenbrasil/core/git/commits/b9243b27a7b96f47a2910e481d7f1c19f1b913f0",
+            "comment_count": 0,
+            "verification": {
+                "verified": false,
+                "reason": "unsigned",
+                "signature": null,
+                "payload": null
+            }
+        },
+        "url": "https://api.github.com/repos/warrenbrasil/core/commits/b9243b27a7b96f47a2910e481d7f1c19f1b913f0",
+        "html_url": "https://github.com/warrenbrasil/core/commit/b9243b27a7b96f47a2910e481d7f1c19f1b913f0",
+        "comments_url": "https://api.github.com/repos/warrenbrasil/core/commits/b9243b27a7b96f47a2910e481d7f1c19f1b913f0/comments",
+        "author": {
+            "login": "Burilec",
+            "id": 39936613,
+            "node_id": "MDQ6VXNlcjM5OTM2NjEz",
+            "avatar_url": "https://avatars.githubusercontent.com/u/39936613?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/Burilec",
+            "html_url": "https://github.com/Burilec",
+            "followers_url": "https://api.github.com/users/Burilec/followers",
+            "following_url": "https://api.github.com/users/Burilec/following{/other_user}",
+            "gists_url": "https://api.github.com/users/Burilec/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/Burilec/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/Burilec/subscriptions",
+            "organizations_url": "https://api.github.com/users/Burilec/orgs",
+            "repos_url": "https://api.github.com/users/Burilec/repos",
+            "events_url": "https://api.github.com/users/Burilec/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/Burilec/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "Burilec",
+            "id": 39936613,
+            "node_id": "MDQ6VXNlcjM5OTM2NjEz",
+            "avatar_url": "https://avatars.githubusercontent.com/u/39936613?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/Burilec",
+            "html_url": "https://github.com/Burilec",
+            "followers_url": "https://api.github.com/users/Burilec/followers",
+            "following_url": "https://api.github.com/users/Burilec/following{/other_user}",
+            "gists_url": "https://api.github.com/users/Burilec/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/Burilec/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/Burilec/subscriptions",
+            "organizations_url": "https://api.github.com/users/Burilec/orgs",
+            "repos_url": "https://api.github.com/users/Burilec/repos",
+            "events_url": "https://api.github.com/users/Burilec/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/Burilec/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "9532d4c1b328b55f4791fff5d5096b718b63d47c",
+                "url": "https://api.github.com/repos/warrenbrasil/core/commits/9532d4c1b328b55f4791fff5d5096b718b63d47c",
+                "html_url": "https://github.com/warrenbrasil/core/commit/9532d4c1b328b55f4791fff5d5096b718b63d47c"
+            }
+        ]
+    },
+    {
+        "sha": "25e36e2f6db34fa956889531a72edf685f9b6bb4",
+        "node_id": "C_kwDOAuNQMdoAKDI1ZTM2ZTJmNmRiMzRmYTk1Njg4OTUzMWE3MmVkZjY4NWY5YjZiYjQ",
+        "commit": {
+            "author": {
+                "name": "Cristian Burile",
+                "email": "cristianburile@hotmail.com",
+                "date": "2023-04-20T16:13:48Z"
+            },
+            "committer": {
+                "name": "Cristian Burile",
+                "email": "cristianburile@hotmail.com",
+                "date": "2023-04-20T16:13:48Z"
+            },
+            "message": "another test",
+            "tree": {
+                "sha": "cd351b4a1afbe33be5758f14950ab729b2289563",
+                "url": "https://api.github.com/repos/warrenbrasil/core/git/trees/cd351b4a1afbe33be5758f14950ab729b2289563"
+            },
+            "url": "https://api.github.com/repos/warrenbrasil/core/git/commits/25e36e2f6db34fa956889531a72edf685f9b6bb4",
+            "comment_count": 0,
+            "verification": {
+                "verified": false,
+                "reason": "unsigned",
+                "signature": null,
+                "payload": null
+            }
+        },
+        "url": "https://api.github.com/repos/warrenbrasil/core/commits/25e36e2f6db34fa956889531a72edf685f9b6bb4",
+        "html_url": "https://github.com/warrenbrasil/core/commit/25e36e2f6db34fa956889531a72edf685f9b6bb4",
+        "comments_url": "https://api.github.com/repos/warrenbrasil/core/commits/25e36e2f6db34fa956889531a72edf685f9b6bb4/comments",
+        "author": {
+            "login": "Burilec",
+            "id": 39936613,
+            "node_id": "MDQ6VXNlcjM5OTM2NjEz",
+            "avatar_url": "https://avatars.githubusercontent.com/u/39936613?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/Burilec",
+            "html_url": "https://github.com/Burilec",
+            "followers_url": "https://api.github.com/users/Burilec/followers",
+            "following_url": "https://api.github.com/users/Burilec/following{/other_user}",
+            "gists_url": "https://api.github.com/users/Burilec/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/Burilec/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/Burilec/subscriptions",
+            "organizations_url": "https://api.github.com/users/Burilec/orgs",
+            "repos_url": "https://api.github.com/users/Burilec/repos",
+            "events_url": "https://api.github.com/users/Burilec/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/Burilec/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "Burilec",
+            "id": 39936613,
+            "node_id": "MDQ6VXNlcjM5OTM2NjEz",
+            "avatar_url": "https://avatars.githubusercontent.com/u/39936613?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/Burilec",
+            "html_url": "https://github.com/Burilec",
+            "followers_url": "https://api.github.com/users/Burilec/followers",
+            "following_url": "https://api.github.com/users/Burilec/following{/other_user}",
+            "gists_url": "https://api.github.com/users/Burilec/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/Burilec/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/Burilec/subscriptions",
+            "organizations_url": "https://api.github.com/users/Burilec/orgs",
+            "repos_url": "https://api.github.com/users/Burilec/repos",
+            "events_url": "https://api.github.com/users/Burilec/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/Burilec/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "b9243b27a7b96f47a2910e481d7f1c19f1b913f0",
+                "url": "https://api.github.com/repos/warrenbrasil/core/commits/b9243b27a7b96f47a2910e481d7f1c19f1b913f0",
+                "html_url": "https://github.com/warrenbrasil/core/commit/b9243b27a7b96f47a2910e481d7f1c19f1b913f0"
+            }
+        ]
+    },
+    {
+        "sha": "cea8d259321a462b9e65c7ee676c9a8a50ec46dc",
+        "node_id": "C_kwDOAuNQMdoAKGNlYThkMjU5MzIxYTQ2MmI5ZTY1YzdlZTY3NmM5YThhNTBlYzQ2ZGM",
+        "commit": {
+            "author": {
+                "name": "Cristian Burile",
+                "email": "cristianburile@hotmail.com",
+                "date": "2023-04-20T16:22:18Z"
+            },
+            "committer": {
+                "name": "Cristian Burile",
+                "email": "cristianburile@hotmail.com",
+                "date": "2023-04-20T16:22:18Z"
+            },
+            "message": "fix",
+            "tree": {
+                "sha": "b74e8738a45046a9199519e13db377ae24d88f32",
+                "url": "https://api.github.com/repos/warrenbrasil/core/git/trees/b74e8738a45046a9199519e13db377ae24d88f32"
+            },
+            "url": "https://api.github.com/repos/warrenbrasil/core/git/commits/cea8d259321a462b9e65c7ee676c9a8a50ec46dc",
+            "comment_count": 0,
+            "verification": {
+                "verified": false,
+                "reason": "unsigned",
+                "signature": null,
+                "payload": null
+            }
+        },
+        "url": "https://api.github.com/repos/warrenbrasil/core/commits/cea8d259321a462b9e65c7ee676c9a8a50ec46dc",
+        "html_url": "https://github.com/warrenbrasil/core/commit/cea8d259321a462b9e65c7ee676c9a8a50ec46dc",
+        "comments_url": "https://api.github.com/repos/warrenbrasil/core/commits/cea8d259321a462b9e65c7ee676c9a8a50ec46dc/comments",
+        "author": {
+            "login": "Burilec",
+            "id": 39936613,
+            "node_id": "MDQ6VXNlcjM5OTM2NjEz",
+            "avatar_url": "https://avatars.githubusercontent.com/u/39936613?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/Burilec",
+            "html_url": "https://github.com/Burilec",
+            "followers_url": "https://api.github.com/users/Burilec/followers",
+            "following_url": "https://api.github.com/users/Burilec/following{/other_user}",
+            "gists_url": "https://api.github.com/users/Burilec/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/Burilec/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/Burilec/subscriptions",
+            "organizations_url": "https://api.github.com/users/Burilec/orgs",
+            "repos_url": "https://api.github.com/users/Burilec/repos",
+            "events_url": "https://api.github.com/users/Burilec/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/Burilec/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "Burilec",
+            "id": 39936613,
+            "node_id": "MDQ6VXNlcjM5OTM2NjEz",
+            "avatar_url": "https://avatars.githubusercontent.com/u/39936613?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/Burilec",
+            "html_url": "https://github.com/Burilec",
+            "followers_url": "https://api.github.com/users/Burilec/followers",
+            "following_url": "https://api.github.com/users/Burilec/following{/other_user}",
+            "gists_url": "https://api.github.com/users/Burilec/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/Burilec/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/Burilec/subscriptions",
+            "organizations_url": "https://api.github.com/users/Burilec/orgs",
+            "repos_url": "https://api.github.com/users/Burilec/repos",
+            "events_url": "https://api.github.com/users/Burilec/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/Burilec/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "25e36e2f6db34fa956889531a72edf685f9b6bb4",
+                "url": "https://api.github.com/repos/warrenbrasil/core/commits/25e36e2f6db34fa956889531a72edf685f9b6bb4",
+                "html_url": "https://github.com/warrenbrasil/core/commit/25e36e2f6db34fa956889531a72edf685f9b6bb4"
+            }
+        ]
+    },
+    {
+        "sha": "c9a1cd53275ab3e97c3a49ce5c6c7816b719c995",
+        "node_id": "C_kwDOAuNQMdoAKGM5YTFjZDUzMjc1YWIzZTk3YzNhNDljZTVjNmM3ODE2YjcxOWM5OTU",
+        "commit": {
+            "author": {
+                "name": "Cristian Burile",
+                "email": "cristianburile@hotmail.com",
+                "date": "2023-04-20T16:29:26Z"
+            },
+            "committer": {
+                "name": "Cristian Burile",
+                "email": "cristianburile@hotmail.com",
+                "date": "2023-04-20T16:29:26Z"
+            },
+            "message": "remove",
+            "tree": {
+                "sha": "99aedd68605dd7d7c057205064e882141b612b05",
+                "url": "https://api.github.com/repos/warrenbrasil/core/git/trees/99aedd68605dd7d7c057205064e882141b612b05"
+            },
+            "url": "https://api.github.com/repos/warrenbrasil/core/git/commits/c9a1cd53275ab3e97c3a49ce5c6c7816b719c995",
+            "comment_count": 0,
+            "verification": {
+                "verified": false,
+                "reason": "unsigned",
+                "signature": null,
+                "payload": null
+            }
+        },
+        "url": "https://api.github.com/repos/warrenbrasil/core/commits/c9a1cd53275ab3e97c3a49ce5c6c7816b719c995",
+        "html_url": "https://github.com/warrenbrasil/core/commit/c9a1cd53275ab3e97c3a49ce5c6c7816b719c995",
+        "comments_url": "https://api.github.com/repos/warrenbrasil/core/commits/c9a1cd53275ab3e97c3a49ce5c6c7816b719c995/comments",
+        "author": {
+            "login": "Burilec",
+            "id": 39936613,
+            "node_id": "MDQ6VXNlcjM5OTM2NjEz",
+            "avatar_url": "https://avatars.githubusercontent.com/u/39936613?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/Burilec",
+            "html_url": "https://github.com/Burilec",
+            "followers_url": "https://api.github.com/users/Burilec/followers",
+            "following_url": "https://api.github.com/users/Burilec/following{/other_user}",
+            "gists_url": "https://api.github.com/users/Burilec/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/Burilec/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/Burilec/subscriptions",
+            "organizations_url": "https://api.github.com/users/Burilec/orgs",
+            "repos_url": "https://api.github.com/users/Burilec/repos",
+            "events_url": "https://api.github.com/users/Burilec/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/Burilec/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "Burilec",
+            "id": 39936613,
+            "node_id": "MDQ6VXNlcjM5OTM2NjEz",
+            "avatar_url": "https://avatars.githubusercontent.com/u/39936613?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/Burilec",
+            "html_url": "https://github.com/Burilec",
+            "followers_url": "https://api.github.com/users/Burilec/followers",
+            "following_url": "https://api.github.com/users/Burilec/following{/other_user}",
+            "gists_url": "https://api.github.com/users/Burilec/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/Burilec/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/Burilec/subscriptions",
+            "organizations_url": "https://api.github.com/users/Burilec/orgs",
+            "repos_url": "https://api.github.com/users/Burilec/repos",
+            "events_url": "https://api.github.com/users/Burilec/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/Burilec/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "cea8d259321a462b9e65c7ee676c9a8a50ec46dc",
+                "url": "https://api.github.com/repos/warrenbrasil/core/commits/cea8d259321a462b9e65c7ee676c9a8a50ec46dc",
+                "html_url": "https://github.com/warrenbrasil/core/commit/cea8d259321a462b9e65c7ee676c9a8a50ec46dc"
+            }
+        ]
+    },
+    {
+        "sha": "972fec4969792b098b97ce9651da4e72a9b0aa50",
+        "node_id": "C_kwDOAuNQMdoAKDk3MmZlYzQ5Njk3OTJiMDk4Yjk3Y2U5NjUxZGE0ZTcyYTliMGFhNTA",
+        "commit": {
+            "author": {
+                "name": "mauriciogomes02",
+                "email": "mauricio.gomes@warren.com.br",
+                "date": "2023-04-20T20:12:04Z"
+            },
+            "committer": {
+                "name": "mauriciogomes02",
+                "email": "mauricio.gomes@warren.com.br",
+                "date": "2023-04-20T20:12:04Z"
+            },
+            "message": "feat(transaction-reconciliation): adjust domain aggregate\n\nJIRA TRD-8317",
+            "tree": {
+                "sha": "03b830bf6f4eae8d9e6d254d3da0adc4a5d33f32",
+                "url": "https://api.github.com/repos/warrenbrasil/core/git/trees/03b830bf6f4eae8d9e6d254d3da0adc4a5d33f32"
+            },
+            "url": "https://api.github.com/repos/warrenbrasil/core/git/commits/972fec4969792b098b97ce9651da4e72a9b0aa50",
+            "comment_count": 0,
+            "verification": {
+                "verified": false,
+                "reason": "unsigned",
+                "signature": null,
+                "payload": null
+            }
+        },
+        "url": "https://api.github.com/repos/warrenbrasil/core/commits/972fec4969792b098b97ce9651da4e72a9b0aa50",
+        "html_url": "https://github.com/warrenbrasil/core/commit/972fec4969792b098b97ce9651da4e72a9b0aa50",
+        "comments_url": "https://api.github.com/repos/warrenbrasil/core/commits/972fec4969792b098b97ce9651da4e72a9b0aa50/comments",
+        "author": {
+            "login": "MauricioGomes02",
+            "id": 65768679,
+            "node_id": "MDQ6VXNlcjY1NzY4Njc5",
+            "avatar_url": "https://avatars.githubusercontent.com/u/65768679?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/MauricioGomes02",
+            "html_url": "https://github.com/MauricioGomes02",
+            "followers_url": "https://api.github.com/users/MauricioGomes02/followers",
+            "following_url": "https://api.github.com/users/MauricioGomes02/following{/other_user}",
+            "gists_url": "https://api.github.com/users/MauricioGomes02/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/MauricioGomes02/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/MauricioGomes02/subscriptions",
+            "organizations_url": "https://api.github.com/users/MauricioGomes02/orgs",
+            "repos_url": "https://api.github.com/users/MauricioGomes02/repos",
+            "events_url": "https://api.github.com/users/MauricioGomes02/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/MauricioGomes02/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "MauricioGomes02",
+            "id": 65768679,
+            "node_id": "MDQ6VXNlcjY1NzY4Njc5",
+            "avatar_url": "https://avatars.githubusercontent.com/u/65768679?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/MauricioGomes02",
+            "html_url": "https://github.com/MauricioGomes02",
+            "followers_url": "https://api.github.com/users/MauricioGomes02/followers",
+            "following_url": "https://api.github.com/users/MauricioGomes02/following{/other_user}",
+            "gists_url": "https://api.github.com/users/MauricioGomes02/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/MauricioGomes02/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/MauricioGomes02/subscriptions",
+            "organizations_url": "https://api.github.com/users/MauricioGomes02/orgs",
+            "repos_url": "https://api.github.com/users/MauricioGomes02/repos",
+            "events_url": "https://api.github.com/users/MauricioGomes02/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/MauricioGomes02/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "203a24826fd213abd493b9e5d488b7e5e8ce8693",
+                "url": "https://api.github.com/repos/warrenbrasil/core/commits/203a24826fd213abd493b9e5d488b7e5e8ce8693",
+                "html_url": "https://github.com/warrenbrasil/core/commit/203a24826fd213abd493b9e5d488b7e5e8ce8693"
+            }
+        ]
+    },
+    {
+        "sha": "ae95a0159cc602dbbe1e50eeebd17629c9bb81f8",
+        "node_id": "C_kwDOAuNQMdoAKGFlOTVhMDE1OWNjNjAyZGJiZTFlNTBlZWViZDE3NjI5YzliYjgxZjg",
+        "commit": {
+            "author": {
+                "name": "mauriciogomes02",
+                "email": "mauricio.gomes@warren.com.br",
+                "date": "2023-04-20T20:16:46Z"
+            },
+            "committer": {
+                "name": "mauriciogomes02",
+                "email": "mauricio.gomes@warren.com.br",
+                "date": "2023-04-20T20:16:46Z"
+            },
+            "message": "feat(transaction-reconciliation): add settings for new table\n\nJIRA TRD-8317",
+            "tree": {
+                "sha": "f2a8b86243f803ca8cc87e4da9e05ee5b7362b9a",
+                "url": "https://api.github.com/repos/warrenbrasil/core/git/trees/f2a8b86243f803ca8cc87e4da9e05ee5b7362b9a"
+            },
+            "url": "https://api.github.com/repos/warrenbrasil/core/git/commits/ae95a0159cc602dbbe1e50eeebd17629c9bb81f8",
+            "comment_count": 0,
+            "verification": {
+                "verified": false,
+                "reason": "unsigned",
+                "signature": null,
+                "payload": null
+            }
+        },
+        "url": "https://api.github.com/repos/warrenbrasil/core/commits/ae95a0159cc602dbbe1e50eeebd17629c9bb81f8",
+        "html_url": "https://github.com/warrenbrasil/core/commit/ae95a0159cc602dbbe1e50eeebd17629c9bb81f8",
+        "comments_url": "https://api.github.com/repos/warrenbrasil/core/commits/ae95a0159cc602dbbe1e50eeebd17629c9bb81f8/comments",
+        "author": {
+            "login": "MauricioGomes02",
+            "id": 65768679,
+            "node_id": "MDQ6VXNlcjY1NzY4Njc5",
+            "avatar_url": "https://avatars.githubusercontent.com/u/65768679?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/MauricioGomes02",
+            "html_url": "https://github.com/MauricioGomes02",
+            "followers_url": "https://api.github.com/users/MauricioGomes02/followers",
+            "following_url": "https://api.github.com/users/MauricioGomes02/following{/other_user}",
+            "gists_url": "https://api.github.com/users/MauricioGomes02/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/MauricioGomes02/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/MauricioGomes02/subscriptions",
+            "organizations_url": "https://api.github.com/users/MauricioGomes02/orgs",
+            "repos_url": "https://api.github.com/users/MauricioGomes02/repos",
+            "events_url": "https://api.github.com/users/MauricioGomes02/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/MauricioGomes02/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "MauricioGomes02",
+            "id": 65768679,
+            "node_id": "MDQ6VXNlcjY1NzY4Njc5",
+            "avatar_url": "https://avatars.githubusercontent.com/u/65768679?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/MauricioGomes02",
+            "html_url": "https://github.com/MauricioGomes02",
+            "followers_url": "https://api.github.com/users/MauricioGomes02/followers",
+            "following_url": "https://api.github.com/users/MauricioGomes02/following{/other_user}",
+            "gists_url": "https://api.github.com/users/MauricioGomes02/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/MauricioGomes02/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/MauricioGomes02/subscriptions",
+            "organizations_url": "https://api.github.com/users/MauricioGomes02/orgs",
+            "repos_url": "https://api.github.com/users/MauricioGomes02/repos",
+            "events_url": "https://api.github.com/users/MauricioGomes02/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/MauricioGomes02/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "972fec4969792b098b97ce9651da4e72a9b0aa50",
+                "url": "https://api.github.com/repos/warrenbrasil/core/commits/972fec4969792b098b97ce9651da4e72a9b0aa50",
+                "html_url": "https://github.com/warrenbrasil/core/commit/972fec4969792b098b97ce9651da4e72a9b0aa50"
+            }
+        ]
+    },
+    {
+        "sha": "44e65a45dd29e2ff3a4f354d1480894787c1c6b5",
+        "node_id": "C_kwDOAuNQMdoAKDQ0ZTY1YTQ1ZGQyOWUyZmYzYTRmMzU0ZDE0ODA4OTQ3ODdjMWM2YjU",
+        "commit": {
+            "author": {
+                "name": "mauriciogomes02",
+                "email": "mauricio.gomes@warren.com.br",
+                "date": "2023-04-20T20:18:14Z"
+            },
+            "committer": {
+                "name": "mauriciogomes02",
+                "email": "mauricio.gomes@warren.com.br",
+                "date": "2023-04-20T20:18:14Z"
+            },
+            "message": "feat(transaction-reconciliation): add repository and integration test\n\nJIRA TRD-8317",
+            "tree": {
+                "sha": "3bbc196b9642dc429bc215e1c29d7e72856dd0a7",
+                "url": "https://api.github.com/repos/warrenbrasil/core/git/trees/3bbc196b9642dc429bc215e1c29d7e72856dd0a7"
+            },
+            "url": "https://api.github.com/repos/warrenbrasil/core/git/commits/44e65a45dd29e2ff3a4f354d1480894787c1c6b5",
+            "comment_count": 0,
+            "verification": {
+                "verified": false,
+                "reason": "unsigned",
+                "signature": null,
+                "payload": null
+            }
+        },
+        "url": "https://api.github.com/repos/warrenbrasil/core/commits/44e65a45dd29e2ff3a4f354d1480894787c1c6b5",
+        "html_url": "https://github.com/warrenbrasil/core/commit/44e65a45dd29e2ff3a4f354d1480894787c1c6b5",
+        "comments_url": "https://api.github.com/repos/warrenbrasil/core/commits/44e65a45dd29e2ff3a4f354d1480894787c1c6b5/comments",
+        "author": {
+            "login": "MauricioGomes02",
+            "id": 65768679,
+            "node_id": "MDQ6VXNlcjY1NzY4Njc5",
+            "avatar_url": "https://avatars.githubusercontent.com/u/65768679?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/MauricioGomes02",
+            "html_url": "https://github.com/MauricioGomes02",
+            "followers_url": "https://api.github.com/users/MauricioGomes02/followers",
+            "following_url": "https://api.github.com/users/MauricioGomes02/following{/other_user}",
+            "gists_url": "https://api.github.com/users/MauricioGomes02/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/MauricioGomes02/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/MauricioGomes02/subscriptions",
+            "organizations_url": "https://api.github.com/users/MauricioGomes02/orgs",
+            "repos_url": "https://api.github.com/users/MauricioGomes02/repos",
+            "events_url": "https://api.github.com/users/MauricioGomes02/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/MauricioGomes02/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "MauricioGomes02",
+            "id": 65768679,
+            "node_id": "MDQ6VXNlcjY1NzY4Njc5",
+            "avatar_url": "https://avatars.githubusercontent.com/u/65768679?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/MauricioGomes02",
+            "html_url": "https://github.com/MauricioGomes02",
+            "followers_url": "https://api.github.com/users/MauricioGomes02/followers",
+            "following_url": "https://api.github.com/users/MauricioGomes02/following{/other_user}",
+            "gists_url": "https://api.github.com/users/MauricioGomes02/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/MauricioGomes02/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/MauricioGomes02/subscriptions",
+            "organizations_url": "https://api.github.com/users/MauricioGomes02/orgs",
+            "repos_url": "https://api.github.com/users/MauricioGomes02/repos",
+            "events_url": "https://api.github.com/users/MauricioGomes02/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/MauricioGomes02/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "ae95a0159cc602dbbe1e50eeebd17629c9bb81f8",
+                "url": "https://api.github.com/repos/warrenbrasil/core/commits/ae95a0159cc602dbbe1e50eeebd17629c9bb81f8",
+                "html_url": "https://github.com/warrenbrasil/core/commit/ae95a0159cc602dbbe1e50eeebd17629c9bb81f8"
+            }
+        ]
+    },
+    {
+        "sha": "22d52f76fc4f97f21dde798c20726507bfc619ce",
+        "node_id": "C_kwDOAuNQMdoAKDIyZDUyZjc2ZmM0Zjk3ZjIxZGRlNzk4YzIwNzI2NTA3YmZjNjE5Y2U",
+        "commit": {
+            "author": {
+                "name": "Matheus Terra",
+                "email": "matheus.terra@warren.com.br",
+                "date": "2023-04-20T20:52:38Z"
+            },
+            "committer": {
+                "name": "GitHub",
+                "email": "noreply@github.com",
+                "date": "2023-04-20T20:52:38Z"
+            },
+            "message": "PDCN-1892: Run daily job to export current info to FinOne (#13812)\n\n* feat: run daily job to export current info to FinOne\r\n\r\n* refactor: renaming delta to current info\r\n\r\n* fix: adjusting cron for FinOneExporterJob\r\n\r\n* refactor: adjusting ShouldExportReprocessedInfo method name\r\n\r\n* refactor: adjusting FinOneExportReprocessedInfoEnabled global settings name\r\n\r\n* fix: adjusting FinOneExportReprocessedInfoEnabled global settings type\r\n\r\n* refactor: ajust FinOne cron to run at 7AM in staging",
+            "tree": {
+                "sha": "8d9d200881f97f6f3480351a0b698fcb184a86d3",
+                "url": "https://api.github.com/repos/warrenbrasil/core/git/trees/8d9d200881f97f6f3480351a0b698fcb184a86d3"
+            },
+            "url": "https://api.github.com/repos/warrenbrasil/core/git/commits/22d52f76fc4f97f21dde798c20726507bfc619ce",
+            "comment_count": 0,
+            "verification": {
+                "verified": true,
+                "reason": "valid",
+                "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsBcBAABCAAQBQJkQaYWCRBK7hj4Ov3rIwAAePAIABtC3YJ8gfRFtiGn6d4q7T1P\n0xiTeeT6qHxu0C1lia6XGzEzYdxHvsFQF+RAUBR8bmIQFt1inPMDzmYas1zAigmJ\nFnah/2swVOXet17yeQWWEN6UfOWG3BcIk60U5hiQPUNiF8Z7uw4pg+eCsEu96lVZ\nIK4z1LJWqE5XWHvQCNApQMBaQ7ZtKhTR/lvnWuA/v+cVDaDuY6llX5IF6vzvis3x\nuKkhSM684Xp1+6N/2zJYDtiV5pYv37KAfiBt0tUmsofzlk60HZaKDx00z4RzBpad\nw5oqshQyw7hvj9WAK+5j7eQH7RaoyxBN3LajTvJ6DUDJ9oeolVN+xOO25qHDUEo=\n=e0eO\n-----END PGP SIGNATURE-----\n",
+                "payload": "tree 8d9d200881f97f6f3480351a0b698fcb184a86d3\nparent 3ff264a7cef2296e1b455c2edad7b825573a2302\nauthor Matheus Terra <matheus.terra@warren.com.br> 1682023958 -0300\ncommitter GitHub <noreply@github.com> 1682023958 -0300\n\nPDCN-1892: Run daily job to export current info to FinOne (#13812)\n\n* feat: run daily job to export current info to FinOne\r\n\r\n* refactor: renaming delta to current info\r\n\r\n* fix: adjusting cron for FinOneExporterJob\r\n\r\n* refactor: adjusting ShouldExportReprocessedInfo method name\r\n\r\n* refactor: adjusting FinOneExportReprocessedInfoEnabled global settings name\r\n\r\n* fix: adjusting FinOneExportReprocessedInfoEnabled global settings type\r\n\r\n* refactor: ajust FinOne cron to run at 7AM in staging"
+            }
+        },
+        "url": "https://api.github.com/repos/warrenbrasil/core/commits/22d52f76fc4f97f21dde798c20726507bfc619ce",
+        "html_url": "https://github.com/warrenbrasil/core/commit/22d52f76fc4f97f21dde798c20726507bfc619ce",
+        "comments_url": "https://api.github.com/repos/warrenbrasil/core/commits/22d52f76fc4f97f21dde798c20726507bfc619ce/comments",
+        "author": {
+            "login": "mvearth",
+            "id": 19390937,
+            "node_id": "MDQ6VXNlcjE5MzkwOTM3",
+            "avatar_url": "https://avatars.githubusercontent.com/u/19390937?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/mvearth",
+            "html_url": "https://github.com/mvearth",
+            "followers_url": "https://api.github.com/users/mvearth/followers",
+            "following_url": "https://api.github.com/users/mvearth/following{/other_user}",
+            "gists_url": "https://api.github.com/users/mvearth/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/mvearth/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/mvearth/subscriptions",
+            "organizations_url": "https://api.github.com/users/mvearth/orgs",
+            "repos_url": "https://api.github.com/users/mvearth/repos",
+            "events_url": "https://api.github.com/users/mvearth/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/mvearth/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "web-flow",
+            "id": 19864447,
+            "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+            "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/web-flow",
+            "html_url": "https://github.com/web-flow",
+            "followers_url": "https://api.github.com/users/web-flow/followers",
+            "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+            "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+            "organizations_url": "https://api.github.com/users/web-flow/orgs",
+            "repos_url": "https://api.github.com/users/web-flow/repos",
+            "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/web-flow/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "3ff264a7cef2296e1b455c2edad7b825573a2302",
+                "url": "https://api.github.com/repos/warrenbrasil/core/commits/3ff264a7cef2296e1b455c2edad7b825573a2302",
+                "html_url": "https://github.com/warrenbrasil/core/commit/3ff264a7cef2296e1b455c2edad7b825573a2302"
+            }
+        ]
+    },
+    {
+        "sha": "1b1b45ecf55a84f6e9845add11d75fdd0377bbf1",
+        "node_id": "C_kwDOAuNQMdoAKDFiMWI0NWVjZjU1YTg0ZjZlOTg0NWFkZDExZDc1ZmRkMDM3N2JiZjE",
+        "commit": {
+            "author": {
+                "name": "Maurício Gomes",
+                "email": "mauricio.gomes@warren.com.br",
+                "date": "2023-04-20T21:03:37Z"
+            },
+            "committer": {
+                "name": "GitHub",
+                "email": "noreply@github.com",
+                "date": "2023-04-20T21:03:37Z"
+            },
+            "message": "Merge pull request #13831 from warrenbrasil/feat/TRD-8317\n\nfeat TRD-8317: Add new data structure to persist transaction reconciliation data",
+            "tree": {
+                "sha": "c0c406a814385ef6c68eb84d3463246a51dae132",
+                "url": "https://api.github.com/repos/warrenbrasil/core/git/trees/c0c406a814385ef6c68eb84d3463246a51dae132"
+            },
+            "url": "https://api.github.com/repos/warrenbrasil/core/git/commits/1b1b45ecf55a84f6e9845add11d75fdd0377bbf1",
+            "comment_count": 0,
+            "verification": {
+                "verified": true,
+                "reason": "valid",
+                "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsBcBAABCAAQBQJkQaipCRBK7hj4Ov3rIwAAmTIIAIgIUzp+MGi7yW5wLjSoSeRf\nBhXiXO6sC6WNY9Ui56kO3ZUMZQgwXahHrXRC6FfJpzEaXNXSTpqO6cqNLpHo3xSw\nQ48wY2nygPxEMDnwspvhcI9MqwGhsAo54mQzEE2tv5RFVQI0qzrlSJIjbS91Tr5h\nyYgrn7i2gJW2vkqzck1bcnBcumuIzNjoplFsuI5XKM0Z24PzD+FXRW76ZEkRF/WC\n900MCcI6vMTFHDyX9vLQdv2KzzeH1mwJDwXdBQhitL4dKo51HLTUPdA85ii49/lA\nPdLDOGnH5kyuH+2ORHrrpeoTe+rhkNaQt+QcFkk2htyrfWdin849AlIBemf+U+k=\n=Z482\n-----END PGP SIGNATURE-----\n",
+                "payload": "tree c0c406a814385ef6c68eb84d3463246a51dae132\nparent 22d52f76fc4f97f21dde798c20726507bfc619ce\nparent 44e65a45dd29e2ff3a4f354d1480894787c1c6b5\nauthor Maurício Gomes <mauricio.gomes@warren.com.br> 1682024617 -0300\ncommitter GitHub <noreply@github.com> 1682024617 -0300\n\nMerge pull request #13831 from warrenbrasil/feat/TRD-8317\n\nfeat TRD-8317: Add new data structure to persist transaction reconciliation data"
+            }
+        },
+        "url": "https://api.github.com/repos/warrenbrasil/core/commits/1b1b45ecf55a84f6e9845add11d75fdd0377bbf1",
+        "html_url": "https://github.com/warrenbrasil/core/commit/1b1b45ecf55a84f6e9845add11d75fdd0377bbf1",
+        "comments_url": "https://api.github.com/repos/warrenbrasil/core/commits/1b1b45ecf55a84f6e9845add11d75fdd0377bbf1/comments",
+        "author": {
+            "login": "MauricioGomes02",
+            "id": 65768679,
+            "node_id": "MDQ6VXNlcjY1NzY4Njc5",
+            "avatar_url": "https://avatars.githubusercontent.com/u/65768679?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/MauricioGomes02",
+            "html_url": "https://github.com/MauricioGomes02",
+            "followers_url": "https://api.github.com/users/MauricioGomes02/followers",
+            "following_url": "https://api.github.com/users/MauricioGomes02/following{/other_user}",
+            "gists_url": "https://api.github.com/users/MauricioGomes02/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/MauricioGomes02/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/MauricioGomes02/subscriptions",
+            "organizations_url": "https://api.github.com/users/MauricioGomes02/orgs",
+            "repos_url": "https://api.github.com/users/MauricioGomes02/repos",
+            "events_url": "https://api.github.com/users/MauricioGomes02/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/MauricioGomes02/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "web-flow",
+            "id": 19864447,
+            "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+            "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/web-flow",
+            "html_url": "https://github.com/web-flow",
+            "followers_url": "https://api.github.com/users/web-flow/followers",
+            "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+            "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+            "organizations_url": "https://api.github.com/users/web-flow/orgs",
+            "repos_url": "https://api.github.com/users/web-flow/repos",
+            "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/web-flow/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "22d52f76fc4f97f21dde798c20726507bfc619ce",
+                "url": "https://api.github.com/repos/warrenbrasil/core/commits/22d52f76fc4f97f21dde798c20726507bfc619ce",
+                "html_url": "https://github.com/warrenbrasil/core/commit/22d52f76fc4f97f21dde798c20726507bfc619ce"
+            },
+            {
+                "sha": "44e65a45dd29e2ff3a4f354d1480894787c1c6b5",
+                "url": "https://api.github.com/repos/warrenbrasil/core/commits/44e65a45dd29e2ff3a4f354d1480894787c1c6b5",
+                "html_url": "https://github.com/warrenbrasil/core/commit/44e65a45dd29e2ff3a4f354d1480894787c1c6b5"
+            }
+        ]
+    },
+    {
+        "sha": "2e0482960afa6748edd18eff4b94a117c4805776",
+        "node_id": "C_kwDOAuNQMdoAKDJlMDQ4Mjk2MGFmYTY3NDhlZGQxOGVmZjRiOTRhMTE3YzQ4MDU3NzY",
+        "commit": {
+            "author": {
+                "name": "Cristian Burile",
+                "email": "cristianburile@hotmail.com",
+                "date": "2023-04-20T22:03:32Z"
+            },
+            "committer": {
+                "name": "GitHub",
+                "email": "noreply@github.com",
+                "date": "2023-04-20T22:03:32Z"
+            },
+            "message": "Merge pull request #13778 from warrenbrasil/feat/pdcn-2079/transfer-only-one-portfolio\n\nPDCN-2079: Portabilidade de RF criando múltiplas carteiras",
+            "tree": {
+                "sha": "4a8b477508b0dfbdd9883347e28d5ab2257aacfe",
+                "url": "https://api.github.com/repos/warrenbrasil/core/git/trees/4a8b477508b0dfbdd9883347e28d5ab2257aacfe"
+            },
+            "url": "https://api.github.com/repos/warrenbrasil/core/git/commits/2e0482960afa6748edd18eff4b94a117c4805776",
+            "comment_count": 0,
+            "verification": {
+                "verified": true,
+                "reason": "valid",
+                "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsBcBAABCAAQBQJkQba0CRBK7hj4Ov3rIwAA3HMIAF0sXP8WLG/pyzmuoV8GWUrl\nh4Mhlbav1YaNOQu+YLVE0FujEjploWjegbMou6ZpFS4oSxbuRiLac6XctyaOMxK3\nq3tPLSZ4AKkxp7n5GIBDt+anCbWUCAbRuXDbR0SJuCexG00m61h+AfNQ7plBCOaN\nmOFRN1ikws1iyVgmRCo8y9buybhnSc3Kuq3EqY4lXiSEcpDUdP0bdYTMVy1/JyY3\nW+Ic6TohAFE/xMR3Yueu5Nnp4e2NjpCK+vNxPBhGmg3feZjDQzQMJNYm9XyYp5l+\nlS2SFe3Q8ozdiIGgoEfe6S9qINucmi3dJMHvxKlOWN+O8R1MyT2xy9atKp2MTC4=\n=cxSX\n-----END PGP SIGNATURE-----\n",
+                "payload": "tree 4a8b477508b0dfbdd9883347e28d5ab2257aacfe\nparent 1b1b45ecf55a84f6e9845add11d75fdd0377bbf1\nparent c9a1cd53275ab3e97c3a49ce5c6c7816b719c995\nauthor Cristian Burile <cristianburile@hotmail.com> 1682028212 -0300\ncommitter GitHub <noreply@github.com> 1682028212 -0300\n\nMerge pull request #13778 from warrenbrasil/feat/pdcn-2079/transfer-only-one-portfolio\n\nPDCN-2079: Portabilidade de RF criando múltiplas carteiras"
+            }
+        },
+        "url": "https://api.github.com/repos/warrenbrasil/core/commits/2e0482960afa6748edd18eff4b94a117c4805776",
+        "html_url": "https://github.com/warrenbrasil/core/commit/2e0482960afa6748edd18eff4b94a117c4805776",
+        "comments_url": "https://api.github.com/repos/warrenbrasil/core/commits/2e0482960afa6748edd18eff4b94a117c4805776/comments",
+        "author": {
+            "login": "Burilec",
+            "id": 39936613,
+            "node_id": "MDQ6VXNlcjM5OTM2NjEz",
+            "avatar_url": "https://avatars.githubusercontent.com/u/39936613?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/Burilec",
+            "html_url": "https://github.com/Burilec",
+            "followers_url": "https://api.github.com/users/Burilec/followers",
+            "following_url": "https://api.github.com/users/Burilec/following{/other_user}",
+            "gists_url": "https://api.github.com/users/Burilec/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/Burilec/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/Burilec/subscriptions",
+            "organizations_url": "https://api.github.com/users/Burilec/orgs",
+            "repos_url": "https://api.github.com/users/Burilec/repos",
+            "events_url": "https://api.github.com/users/Burilec/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/Burilec/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "web-flow",
+            "id": 19864447,
+            "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+            "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/web-flow",
+            "html_url": "https://github.com/web-flow",
+            "followers_url": "https://api.github.com/users/web-flow/followers",
+            "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+            "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+            "organizations_url": "https://api.github.com/users/web-flow/orgs",
+            "repos_url": "https://api.github.com/users/web-flow/repos",
+            "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/web-flow/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "1b1b45ecf55a84f6e9845add11d75fdd0377bbf1",
+                "url": "https://api.github.com/repos/warrenbrasil/core/commits/1b1b45ecf55a84f6e9845add11d75fdd0377bbf1",
+                "html_url": "https://github.com/warrenbrasil/core/commit/1b1b45ecf55a84f6e9845add11d75fdd0377bbf1"
+            },
+            {
+                "sha": "c9a1cd53275ab3e97c3a49ce5c6c7816b719c995",
+                "url": "https://api.github.com/repos/warrenbrasil/core/commits/c9a1cd53275ab3e97c3a49ce5c6c7816b719c995",
+                "html_url": "https://github.com/warrenbrasil/core/commit/c9a1cd53275ab3e97c3a49ce5c6c7816b719c995"
+            }
+        ]
+    },
+    {
+        "sha": "df8e8faad3bc4f81c9ddd8d48e5f521716ff35e5",
+        "node_id": "C_kwDOAuNQMdoAKGRmOGU4ZmFhZDNiYzRmODFjOWRkZDhkNDhlNWY1MjE3MTZmZjM1ZTU",
+        "commit": {
+            "author": {
+                "name": "Matheus Terra",
+                "email": "matheus.terra@warren.com.br",
+                "date": "2023-04-24T13:04:57Z"
+            },
+            "committer": {
+                "name": "GitHub",
+                "email": "noreply@github.com",
+                "date": "2023-04-24T13:04:57Z"
+            },
+            "message": "PDCN-2100: Removing CurrentTradeAccountPosition from SingleFileTypes (#13832)\n\n* fix: removing CurrentTradeAccountPosition from SingleFileTypes\r\n\r\n* refactor: create GetSingleFileTypes method and test",
+            "tree": {
+                "sha": "f836aabec06ca61f2fc689d32dd09d7caa475b38",
+                "url": "https://api.github.com/repos/warrenbrasil/core/git/trees/f836aabec06ca61f2fc689d32dd09d7caa475b38"
+            },
+            "url": "https://api.github.com/repos/warrenbrasil/core/git/commits/df8e8faad3bc4f81c9ddd8d48e5f521716ff35e5",
+            "comment_count": 0,
+            "verification": {
+                "verified": true,
+                "reason": "valid",
+                "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsBcBAABCAAQBQJkRn55CRBK7hj4Ov3rIwAAYJ4IALD9r59GZ4PVpwKFiPMXGfZI\nBjR6ejh9bodSHQDT8IF/2l2b+HE44eh1eF90ACMpRCJXvrRl0/1H9JNHNwhQvUI+\nuWVo5v2KkoGTL8rt4RwiD2P8vCo6SkITQHf8qM8sZWKOxVhKGKHBZVCzbK7Kw1w5\nXOEnaj2tky6XOvo6gjCH5OjjidI24p6exCLTGaYjJZRh+szTUhA1aGKf6iKw2Xsb\nru9LPqdwYw6HaMIbS0oq8X09KvAUoxLcZ2UwvxKLfprFPk9+D93WDYEzEIq307SD\n+rs/nXDtYi/Dq6dVK+bWUzaIfpne3mwhssUqf5zWuVzv1S34D5JXlPALCzV5xRo=\n=CPMr\n-----END PGP SIGNATURE-----\n",
+                "payload": "tree f836aabec06ca61f2fc689d32dd09d7caa475b38\nparent 2e0482960afa6748edd18eff4b94a117c4805776\nauthor Matheus Terra <matheus.terra@warren.com.br> 1682341497 -0300\ncommitter GitHub <noreply@github.com> 1682341497 -0300\n\nPDCN-2100: Removing CurrentTradeAccountPosition from SingleFileTypes (#13832)\n\n* fix: removing CurrentTradeAccountPosition from SingleFileTypes\r\n\r\n* refactor: create GetSingleFileTypes method and test"
+            }
+        },
+        "url": "https://api.github.com/repos/warrenbrasil/core/commits/df8e8faad3bc4f81c9ddd8d48e5f521716ff35e5",
+        "html_url": "https://github.com/warrenbrasil/core/commit/df8e8faad3bc4f81c9ddd8d48e5f521716ff35e5",
+        "comments_url": "https://api.github.com/repos/warrenbrasil/core/commits/df8e8faad3bc4f81c9ddd8d48e5f521716ff35e5/comments",
+        "author": {
+            "login": "mvearth",
+            "id": 19390937,
+            "node_id": "MDQ6VXNlcjE5MzkwOTM3",
+            "avatar_url": "https://avatars.githubusercontent.com/u/19390937?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/mvearth",
+            "html_url": "https://github.com/mvearth",
+            "followers_url": "https://api.github.com/users/mvearth/followers",
+            "following_url": "https://api.github.com/users/mvearth/following{/other_user}",
+            "gists_url": "https://api.github.com/users/mvearth/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/mvearth/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/mvearth/subscriptions",
+            "organizations_url": "https://api.github.com/users/mvearth/orgs",
+            "repos_url": "https://api.github.com/users/mvearth/repos",
+            "events_url": "https://api.github.com/users/mvearth/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/mvearth/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "web-flow",
+            "id": 19864447,
+            "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+            "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/web-flow",
+            "html_url": "https://github.com/web-flow",
+            "followers_url": "https://api.github.com/users/web-flow/followers",
+            "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+            "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+            "organizations_url": "https://api.github.com/users/web-flow/orgs",
+            "repos_url": "https://api.github.com/users/web-flow/repos",
+            "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/web-flow/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "2e0482960afa6748edd18eff4b94a117c4805776",
+                "url": "https://api.github.com/repos/warrenbrasil/core/commits/2e0482960afa6748edd18eff4b94a117c4805776",
+                "html_url": "https://github.com/warrenbrasil/core/commit/2e0482960afa6748edd18eff4b94a117c4805776"
+            }
+        ]
+    },
+    {
+        "sha": "9efa99a744a08601df4c2198592eb94516d17102",
+        "node_id": "C_kwDOAuNQMdoAKDllZmE5OWE3NDRhMDg2MDFkZjRjMjE5ODU5MmViOTQ1MTZkMTcxMDI",
+        "commit": {
+            "author": {
+                "name": "Anderson Cavalcante",
+                "email": "anderson.cavalcante@warren.com.br",
+                "date": "2023-04-24T14:31:02Z"
+            },
+            "committer": {
+                "name": "GitHub",
+                "email": "noreply@github.com",
+                "date": "2023-04-24T14:31:02Z"
+            },
+            "message": "Merge pull request #13834 from warrenbrasil/main\n\nmain-into-stg: 2023-04-24",
+            "tree": {
+                "sha": "f836aabec06ca61f2fc689d32dd09d7caa475b38",
+                "url": "https://api.github.com/repos/warrenbrasil/core/git/trees/f836aabec06ca61f2fc689d32dd09d7caa475b38"
+            },
+            "url": "https://api.github.com/repos/warrenbrasil/core/git/commits/9efa99a744a08601df4c2198592eb94516d17102",
+            "comment_count": 0,
+            "verification": {
+                "verified": true,
+                "reason": "valid",
+                "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsBcBAABCAAQBQJkRpKmCRBK7hj4Ov3rIwAA6PIIAJiz5Os452tFBJLWR8/5r2vO\nKlby2dPKm1V3iV+WLzQ3oPUoc0pkrBLo+YSi6/J/WN/MlYNGss4pljpmyEklXQtk\n7F5/XeIiBirK3Nn1HOteXJFH1vZbOutU/Mvo8t9vux8lNZiqamTSzF7sfXUJv98P\nw+aOpahDo1u2+kbGN0iNV2yzgiNYsrccB9hEnhxkJtwQwSkKVjiiTZvy9PGkhHIq\n9YjVZSV+XQR7ml79GAP3vTJDdLaunLOLiLst/lRiolfnEDKCOkw7UTB0DKhFnrfT\n6fIc1ItJCJXHwByVpzduB0tc0TJXUSSqPC7Du6eeBMONXD2l3VXvZVXf3dhlhsI=\n=c30K\n-----END PGP SIGNATURE-----\n",
+                "payload": "tree f836aabec06ca61f2fc689d32dd09d7caa475b38\nparent df8e8faad3bc4f81c9ddd8d48e5f521716ff35e5\nparent 7d533cd4babf79646802d1533015595cb122001e\nauthor Anderson Cavalcante <anderson.cavalcante@warren.com.br> 1682346662 -0300\ncommitter GitHub <noreply@github.com> 1682346662 -0300\n\nMerge pull request #13834 from warrenbrasil/main\n\nmain-into-stg: 2023-04-24"
+            }
+        },
+        "url": "https://api.github.com/repos/warrenbrasil/core/commits/9efa99a744a08601df4c2198592eb94516d17102",
+        "html_url": "https://github.com/warrenbrasil/core/commit/9efa99a744a08601df4c2198592eb94516d17102",
+        "comments_url": "https://api.github.com/repos/warrenbrasil/core/commits/9efa99a744a08601df4c2198592eb94516d17102/comments",
+        "author": {
+            "login": "AndersonAraujoCavalcante",
+            "id": 100425524,
+            "node_id": "U_kgDOBfxfNA",
+            "avatar_url": "https://avatars.githubusercontent.com/u/100425524?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/AndersonAraujoCavalcante",
+            "html_url": "https://github.com/AndersonAraujoCavalcante",
+            "followers_url": "https://api.github.com/users/AndersonAraujoCavalcante/followers",
+            "following_url": "https://api.github.com/users/AndersonAraujoCavalcante/following{/other_user}",
+            "gists_url": "https://api.github.com/users/AndersonAraujoCavalcante/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/AndersonAraujoCavalcante/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/AndersonAraujoCavalcante/subscriptions",
+            "organizations_url": "https://api.github.com/users/AndersonAraujoCavalcante/orgs",
+            "repos_url": "https://api.github.com/users/AndersonAraujoCavalcante/repos",
+            "events_url": "https://api.github.com/users/AndersonAraujoCavalcante/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/AndersonAraujoCavalcante/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "web-flow",
+            "id": 19864447,
+            "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+            "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/web-flow",
+            "html_url": "https://github.com/web-flow",
+            "followers_url": "https://api.github.com/users/web-flow/followers",
+            "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+            "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+            "organizations_url": "https://api.github.com/users/web-flow/orgs",
+            "repos_url": "https://api.github.com/users/web-flow/repos",
+            "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/web-flow/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "df8e8faad3bc4f81c9ddd8d48e5f521716ff35e5",
+                "url": "https://api.github.com/repos/warrenbrasil/core/commits/df8e8faad3bc4f81c9ddd8d48e5f521716ff35e5",
+                "html_url": "https://github.com/warrenbrasil/core/commit/df8e8faad3bc4f81c9ddd8d48e5f521716ff35e5"
+            },
+            {
+                "sha": "7d533cd4babf79646802d1533015595cb122001e",
+                "url": "https://api.github.com/repos/warrenbrasil/core/commits/7d533cd4babf79646802d1533015595cb122001e",
+                "html_url": "https://github.com/warrenbrasil/core/commit/7d533cd4babf79646802d1533015595cb122001e"
+            }
+        ]
+    },
+    {
+        "sha": "0ef616e09ebdcdcdaac203a821893c37236fcc44",
+        "node_id": "C_kwDOAuNQMdoAKDBlZjYxNmUwOWViZGNkY2RhYWMyMDNhODIxODkzYzM3MjM2ZmNjNDQ",
+        "commit": {
+            "author": {
+                "name": "Paulo Fernando Immig",
+                "email": "paulo.immig@warren.com.br",
+                "date": "2023-04-24T14:34:53Z"
+            },
+            "committer": {
+                "name": "Paulo Fernando Immig",
+                "email": "paulo.immig@warren.com.br",
+                "date": "2023-04-24T14:34:53Z"
+            },
+            "message": "fix: customer not found exception on oppening a new customer form",
+            "tree": {
+                "sha": "b0ad9ede445860e903a0a2eadea8bdcec0234b3b",
+                "url": "https://api.github.com/repos/warrenbrasil/core/git/trees/b0ad9ede445860e903a0a2eadea8bdcec0234b3b"
+            },
+            "url": "https://api.github.com/repos/warrenbrasil/core/git/commits/0ef616e09ebdcdcdaac203a821893c37236fcc44",
+            "comment_count": 0,
+            "verification": {
+                "verified": false,
+                "reason": "unsigned",
+                "signature": null,
+                "payload": null
+            }
+        },
+        "url": "https://api.github.com/repos/warrenbrasil/core/commits/0ef616e09ebdcdcdaac203a821893c37236fcc44",
+        "html_url": "https://github.com/warrenbrasil/core/commit/0ef616e09ebdcdcdaac203a821893c37236fcc44",
+        "comments_url": "https://api.github.com/repos/warrenbrasil/core/commits/0ef616e09ebdcdcdaac203a821893c37236fcc44/comments",
+        "author": {
+            "login": "PauloImmig",
+            "id": 4098691,
+            "node_id": "MDQ6VXNlcjQwOTg2OTE=",
+            "avatar_url": "https://avatars.githubusercontent.com/u/4098691?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/PauloImmig",
+            "html_url": "https://github.com/PauloImmig",
+            "followers_url": "https://api.github.com/users/PauloImmig/followers",
+            "following_url": "https://api.github.com/users/PauloImmig/following{/other_user}",
+            "gists_url": "https://api.github.com/users/PauloImmig/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/PauloImmig/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/PauloImmig/subscriptions",
+            "organizations_url": "https://api.github.com/users/PauloImmig/orgs",
+            "repos_url": "https://api.github.com/users/PauloImmig/repos",
+            "events_url": "https://api.github.com/users/PauloImmig/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/PauloImmig/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "PauloImmig",
+            "id": 4098691,
+            "node_id": "MDQ6VXNlcjQwOTg2OTE=",
+            "avatar_url": "https://avatars.githubusercontent.com/u/4098691?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/PauloImmig",
+            "html_url": "https://github.com/PauloImmig",
+            "followers_url": "https://api.github.com/users/PauloImmig/followers",
+            "following_url": "https://api.github.com/users/PauloImmig/following{/other_user}",
+            "gists_url": "https://api.github.com/users/PauloImmig/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/PauloImmig/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/PauloImmig/subscriptions",
+            "organizations_url": "https://api.github.com/users/PauloImmig/orgs",
+            "repos_url": "https://api.github.com/users/PauloImmig/repos",
+            "events_url": "https://api.github.com/users/PauloImmig/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/PauloImmig/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "df8e8faad3bc4f81c9ddd8d48e5f521716ff35e5",
+                "url": "https://api.github.com/repos/warrenbrasil/core/commits/df8e8faad3bc4f81c9ddd8d48e5f521716ff35e5",
+                "html_url": "https://github.com/warrenbrasil/core/commit/df8e8faad3bc4f81c9ddd8d48e5f521716ff35e5"
+            }
+        ]
+    },
+    {
+        "sha": "2739f8b9c58677cc0227f5946bd34629f9d23070",
+        "node_id": "C_kwDOAuNQMdoAKDI3MzlmOGI5YzU4Njc3Y2MwMjI3ZjU5NDZiZDM0NjI5ZjlkMjMwNzA",
+        "commit": {
+            "author": {
+                "name": "Paulo Fernando Immig",
+                "email": "pauloimmig@gmail.com",
+                "date": "2023-04-24T14:59:38Z"
+            },
+            "committer": {
+                "name": "GitHub",
+                "email": "noreply@github.com",
+                "date": "2023-04-24T14:59:38Z"
+            },
+            "message": "Merge pull request #13836 from warrenbrasil/fix/ON-4123#fix-customer-not-found\n\nON-4123: Customer not found exception on oppening a new customer form",
+            "tree": {
+                "sha": "b0ad9ede445860e903a0a2eadea8bdcec0234b3b",
+                "url": "https://api.github.com/repos/warrenbrasil/core/git/trees/b0ad9ede445860e903a0a2eadea8bdcec0234b3b"
+            },
+            "url": "https://api.github.com/repos/warrenbrasil/core/git/commits/2739f8b9c58677cc0227f5946bd34629f9d23070",
+            "comment_count": 0,
+            "verification": {
+                "verified": true,
+                "reason": "valid",
+                "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsBcBAABCAAQBQJkRplaCRBK7hj4Ov3rIwAA8IYIAGxMJraCUfddJAv6aP8u8bFd\nGnxAa1PlthnWHbv0lwy9u9Est/96CckLIUlWeuO89SWfjybrJc3lLIlScDyJ8n6o\n5u7hjioXeczzTwS/5l8e3CWTgPhK78OWKjuhGQw0iPiW+dQT1BmFnbeIeUDlOaDn\nYdYbdxTJWKR1RGB+tUpoU6mERFHG6XAViQGBv4OmqNdyf+CqwEjFssI1AjHW0ekG\nbjrA3+D/PkXqMLVBK5AxjoYIDSAolDyRu+TRW2wsTgK/r+OvY+t1MScWsFvAjQrp\njXl1eNJ3Gv1dVGb+WdzuT18UZvu7aR7aFSkzSP8FGCqAAgaVOPiot976BqC8GR8=\n=heEN\n-----END PGP SIGNATURE-----\n",
+                "payload": "tree b0ad9ede445860e903a0a2eadea8bdcec0234b3b\nparent 9efa99a744a08601df4c2198592eb94516d17102\nparent 0ef616e09ebdcdcdaac203a821893c37236fcc44\nauthor Paulo Fernando Immig <pauloimmig@gmail.com> 1682348378 -0300\ncommitter GitHub <noreply@github.com> 1682348378 -0300\n\nMerge pull request #13836 from warrenbrasil/fix/ON-4123#fix-customer-not-found\n\nON-4123: Customer not found exception on oppening a new customer form"
+            }
+        },
+        "url": "https://api.github.com/repos/warrenbrasil/core/commits/2739f8b9c58677cc0227f5946bd34629f9d23070",
+        "html_url": "https://github.com/warrenbrasil/core/commit/2739f8b9c58677cc0227f5946bd34629f9d23070",
+        "comments_url": "https://api.github.com/repos/warrenbrasil/core/commits/2739f8b9c58677cc0227f5946bd34629f9d23070/comments",
+        "author": {
+            "login": "PauloImmig",
+            "id": 4098691,
+            "node_id": "MDQ6VXNlcjQwOTg2OTE=",
+            "avatar_url": "https://avatars.githubusercontent.com/u/4098691?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/PauloImmig",
+            "html_url": "https://github.com/PauloImmig",
+            "followers_url": "https://api.github.com/users/PauloImmig/followers",
+            "following_url": "https://api.github.com/users/PauloImmig/following{/other_user}",
+            "gists_url": "https://api.github.com/users/PauloImmig/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/PauloImmig/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/PauloImmig/subscriptions",
+            "organizations_url": "https://api.github.com/users/PauloImmig/orgs",
+            "repos_url": "https://api.github.com/users/PauloImmig/repos",
+            "events_url": "https://api.github.com/users/PauloImmig/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/PauloImmig/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "web-flow",
+            "id": 19864447,
+            "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+            "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/web-flow",
+            "html_url": "https://github.com/web-flow",
+            "followers_url": "https://api.github.com/users/web-flow/followers",
+            "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+            "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+            "organizations_url": "https://api.github.com/users/web-flow/orgs",
+            "repos_url": "https://api.github.com/users/web-flow/repos",
+            "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/web-flow/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "9efa99a744a08601df4c2198592eb94516d17102",
+                "url": "https://api.github.com/repos/warrenbrasil/core/commits/9efa99a744a08601df4c2198592eb94516d17102",
+                "html_url": "https://github.com/warrenbrasil/core/commit/9efa99a744a08601df4c2198592eb94516d17102"
+            },
+            {
+                "sha": "0ef616e09ebdcdcdaac203a821893c37236fcc44",
+                "url": "https://api.github.com/repos/warrenbrasil/core/commits/0ef616e09ebdcdcdaac203a821893c37236fcc44",
+                "html_url": "https://github.com/warrenbrasil/core/commit/0ef616e09ebdcdcdaac203a821893c37236fcc44"
+            }
+        ]
+    },
+    {
+        "sha": "f0c59bed8695d5d1d6ce28076c4279e3ca46369a",
+        "node_id": "C_kwDOAuNQMdoAKGYwYzU5YmVkODY5NWQ1ZDFkNmNlMjgwNzZjNDI3OWUzY2E0NjM2OWE",
+        "commit": {
+            "author": {
+                "name": "Alexandre Machado",
+                "email": "alexandre@machado.cc",
+                "date": "2023-04-24T15:05:04Z"
+            },
+            "committer": {
+                "name": "GitHub",
+                "email": "noreply@github.com",
+                "date": "2023-04-24T15:05:04Z"
+            },
+            "message": "Update CODEOWNERS (#13835)",
+            "tree": {
+                "sha": "f40743d23994c9f54bf5599a0f751d20b09fae4c",
+                "url": "https://api.github.com/repos/warrenbrasil/core/git/trees/f40743d23994c9f54bf5599a0f751d20b09fae4c"
+            },
+            "url": "https://api.github.com/repos/warrenbrasil/core/git/commits/f0c59bed8695d5d1d6ce28076c4279e3ca46369a",
+            "comment_count": 0,
+            "verification": {
+                "verified": true,
+                "reason": "valid",
+                "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsBcBAABCAAQBQJkRpqgCRBK7hj4Ov3rIwAAPE0IAEn/gpMc8awvLZ0eHLtVVi/D\nQtnYotbn7npKFVIv89bbvc3V9aGQ9vmf+nUxLMo8x4UZ/i6XGFEsKjcqdOPvueW6\npTUSIRQIhK3JWRLiB6tOpD1Sgbc2MVsYjyXNj5q+Lop99XfXJ9pftRl26Tdfhncs\nw+NyZNmxlMDZYXqi+9BJ9xiG8y31GP/qXAxSeMlQ5+V6/uZcLew0fg/Rn/ZL26uK\n4FfiiCq3lBX0AiouPHRl8ErFRZH7Uv90/536bz1RoAf3xr23oPink1oq/Ny6ejQo\ncc6I9WpFNlDb9NGo0qBy1Fz4QUif8VJ+xrkMxEtGYbo9wo4y+Qh+rLm/UUUomII=\n=j4Fz\n-----END PGP SIGNATURE-----\n",
+                "payload": "tree f40743d23994c9f54bf5599a0f751d20b09fae4c\nparent 2739f8b9c58677cc0227f5946bd34629f9d23070\nauthor Alexandre Machado <alexandre@machado.cc> 1682348704 -0300\ncommitter GitHub <noreply@github.com> 1682348704 -0300\n\nUpdate CODEOWNERS (#13835)\n\n"
+            }
+        },
+        "url": "https://api.github.com/repos/warrenbrasil/core/commits/f0c59bed8695d5d1d6ce28076c4279e3ca46369a",
+        "html_url": "https://github.com/warrenbrasil/core/commit/f0c59bed8695d5d1d6ce28076c4279e3ca46369a",
+        "comments_url": "https://api.github.com/repos/warrenbrasil/core/commits/f0c59bed8695d5d1d6ce28076c4279e3ca46369a/comments",
+        "author": {
+            "login": "alexandre-machado",
+            "id": 1766903,
+            "node_id": "MDQ6VXNlcjE3NjY5MDM=",
+            "avatar_url": "https://avatars.githubusercontent.com/u/1766903?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/alexandre-machado",
+            "html_url": "https://github.com/alexandre-machado",
+            "followers_url": "https://api.github.com/users/alexandre-machado/followers",
+            "following_url": "https://api.github.com/users/alexandre-machado/following{/other_user}",
+            "gists_url": "https://api.github.com/users/alexandre-machado/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/alexandre-machado/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/alexandre-machado/subscriptions",
+            "organizations_url": "https://api.github.com/users/alexandre-machado/orgs",
+            "repos_url": "https://api.github.com/users/alexandre-machado/repos",
+            "events_url": "https://api.github.com/users/alexandre-machado/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/alexandre-machado/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "web-flow",
+            "id": 19864447,
+            "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+            "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/web-flow",
+            "html_url": "https://github.com/web-flow",
+            "followers_url": "https://api.github.com/users/web-flow/followers",
+            "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+            "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+            "organizations_url": "https://api.github.com/users/web-flow/orgs",
+            "repos_url": "https://api.github.com/users/web-flow/repos",
+            "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/web-flow/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "2739f8b9c58677cc0227f5946bd34629f9d23070",
+                "url": "https://api.github.com/repos/warrenbrasil/core/commits/2739f8b9c58677cc0227f5946bd34629f9d23070",
+                "html_url": "https://github.com/warrenbrasil/core/commit/2739f8b9c58677cc0227f5946bd34629f9d23070"
+            }
+        ]
+    },
+    {
+        "sha": "280da5a79b61f6d869007111e360c139308b503c",
+        "node_id": "C_kwDOAuNQMdoAKDI4MGRhNWE3OWI2MWY2ZDg2OTAwNzExMWUzNjBjMTM5MzA4YjUwM2M",
+        "commit": {
+            "author": {
+                "name": "Alexandre Machado",
+                "email": "alexandre@machado.cc",
+                "date": "2023-04-24T18:48:14Z"
+            },
+            "committer": {
+                "name": "GitHub",
+                "email": "noreply@github.com",
+                "date": "2023-04-24T18:48:14Z"
+            },
+            "message": "ci: add command option on PR to run tracking bot (#13838)",
+            "tree": {
+                "sha": "4702acbc15e30dc59b6d5876939c455cac83a38d",
+                "url": "https://api.github.com/repos/warrenbrasil/core/git/trees/4702acbc15e30dc59b6d5876939c455cac83a38d"
+            },
+            "url": "https://api.github.com/repos/warrenbrasil/core/git/commits/280da5a79b61f6d869007111e360c139308b503c",
+            "comment_count": 0,
+            "verification": {
+                "verified": true,
+                "reason": "valid",
+                "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsBcBAABCAAQBQJkRs7uCRBK7hj4Ov3rIwAAyxoIAHN8zQ4qxUkoJBYoCG97CX7x\nsBDRQlNa/h093lTh7cQivq5sXNDE3MPbAXwoZXIevgD7O4Hh1pdbP8aiCWJx0eNz\n2UNQK26ydwTlO7rPrZvcyBYcESsyoJdAZML7NiOkT0zyWBoCjzGuhb3b/EWo+qRk\nnCt4rCwyfLvDXrx0fIKzlGMduxgLtOuRHhrtY3QA4VCbRB2gbpqKRAAzkXTiP7ds\nWzY/7b6SVFFcaDSppZTHArD2fP8LUhDEaBKwHieqHF+h6s5waDrqmufMV1iNKGu5\nqWTaIHDdlvi1Ql6qTfFbpsLtUcmVo42rIOndR99O1FKmHCCu2wJgsgSPBVFDRf8=\n=eNmP\n-----END PGP SIGNATURE-----\n",
+                "payload": "tree 4702acbc15e30dc59b6d5876939c455cac83a38d\nparent f0c59bed8695d5d1d6ce28076c4279e3ca46369a\nauthor Alexandre Machado <alexandre@machado.cc> 1682362094 -0300\ncommitter GitHub <noreply@github.com> 1682362094 -0300\n\nci: add command option on PR to run tracking bot (#13838)\n\n"
+            }
+        },
+        "url": "https://api.github.com/repos/warrenbrasil/core/commits/280da5a79b61f6d869007111e360c139308b503c",
+        "html_url": "https://github.com/warrenbrasil/core/commit/280da5a79b61f6d869007111e360c139308b503c",
+        "comments_url": "https://api.github.com/repos/warrenbrasil/core/commits/280da5a79b61f6d869007111e360c139308b503c/comments",
+        "author": {
+            "login": "alexandre-machado",
+            "id": 1766903,
+            "node_id": "MDQ6VXNlcjE3NjY5MDM=",
+            "avatar_url": "https://avatars.githubusercontent.com/u/1766903?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/alexandre-machado",
+            "html_url": "https://github.com/alexandre-machado",
+            "followers_url": "https://api.github.com/users/alexandre-machado/followers",
+            "following_url": "https://api.github.com/users/alexandre-machado/following{/other_user}",
+            "gists_url": "https://api.github.com/users/alexandre-machado/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/alexandre-machado/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/alexandre-machado/subscriptions",
+            "organizations_url": "https://api.github.com/users/alexandre-machado/orgs",
+            "repos_url": "https://api.github.com/users/alexandre-machado/repos",
+            "events_url": "https://api.github.com/users/alexandre-machado/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/alexandre-machado/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "web-flow",
+            "id": 19864447,
+            "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+            "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/web-flow",
+            "html_url": "https://github.com/web-flow",
+            "followers_url": "https://api.github.com/users/web-flow/followers",
+            "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+            "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+            "organizations_url": "https://api.github.com/users/web-flow/orgs",
+            "repos_url": "https://api.github.com/users/web-flow/repos",
+            "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/web-flow/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "f0c59bed8695d5d1d6ce28076c4279e3ca46369a",
+                "url": "https://api.github.com/repos/warrenbrasil/core/commits/f0c59bed8695d5d1d6ce28076c4279e3ca46369a",
+                "html_url": "https://github.com/warrenbrasil/core/commit/f0c59bed8695d5d1d6ce28076c4279e3ca46369a"
+            }
+        ]
+    }
+]
